@@ -1,0 +1,1602 @@
+company,paid_maternity_leave,unpaid_maternity_leave,paid_paternity_leave,unpaid_paternity_leave,main_industry,sub_industry,avg_unpaid_leave,avg_paid_leave,avg_leave,paid_leave_discrepancy,unpaid_leave_discrepancy,paid_to_unpaid_leave_ratio
+Epsilon,6.0,6.0,6.0,6.0,Advertising,,6.0,6.0,6.0,0.0,0.0,1.0
+The Walt Disney Company,5.0,4.0,4.5,4.0,Arts and Entertainment,,4.0,4.75,4.375,0.5,0.0,1.1875
+Guild Education,14.0,0.0,8.0,4.0,Business Services,Other,2.0,11.0,6.5,6.0,-4.0,5.5
+WeWork,14.0,2.0,16.0,4.0,Business Services,Other,3.0,15.0,9.0,-2.0,-2.0,5.0
+Randstad USA,5.0,7.0,0.0,0.0,Business Services,Staffing and Outsourcing,3.5,2.5,3.0,5.0,7.0,0.7142857142857143
+Bain & Company,20.5,5.0,21.0,5.0,Consulting Services,,5.0,20.75,12.875,-0.5,0.0,4.15
+World 50,8.0,12.0,1.0,12.0,Consulting Services,,12.0,4.5,8.25,7.0,0.0,0.375
+"ConAgra Foods, Inc.",6.0,6.0,2.0,6.0,Consumer Packaged Goods,Packaged Foods,6.0,4.0,5.0,4.0,0.0,0.6666666666666666
+Anduril Industries,16.0,0.0,16.0,0.0,Defense and Space,,0.0,16.0,8.0,0.0,0.0,
+Northrop Grumman,3.0,12.0,2.0,12.0,Defense and Space,,12.0,2.5,7.25,1.0,0.0,0.20833333333333334
+The University of Vermont,0.0,12.0,0.0,12.0,Educational Services,College and Universities,12.0,0.0,6.0,0.0,0.0,0.0
+Belden,0.0,12.0,0.0,12.0,Electronics,Manufacturing,12.0,0.0,6.0,0.0,0.0,0.0
+Motorola Solutions,6.0,7.5,0.0,6.0,Electronics,Manufacturing,6.75,3.0,4.875,6.0,1.5,0.4444444444444444
+MFS Investment Management,16.0,2.0,12.0,0.0,Finance,Asset Management,1.0,14.0,7.5,4.0,2.0,14.0
+PIMCO,12.0,12.0,3.0,12.0,Finance,Asset Management,12.0,7.5,9.75,9.0,0.0,0.625
+Sandia National Laboratories,6.0,6.0,6.0,6.0,Government,Contractor,6.0,6.0,6.0,0.0,0.0,1.0
+Los Angeles County,0.0,12.0,0.0,12.0,Government,County,12.0,0.0,6.0,0.0,0.0,0.0
+Federal Reserve Bank of Chicago,12.0,0.0,6.0,0.0,Government,Federal,0.0,9.0,4.5,6.0,0.0,
+Southern Health Partners,4.0,8.0,2.0,2.0,Healthcare,Diversified,5.0,3.0,4.0,2.0,6.0,0.6
+Denver Health Medical Center,2.5,10.5,0.0,12.0,Healthcare,Hospitals and Clinics,11.25,1.25,6.25,2.5,-1.5,0.1111111111111111
+Kohler Co.,6.0,6.0,2.0,12.0,Industrial,Equipment Manufacturing,9.0,4.0,6.5,4.0,-6.0,0.4444444444444444
+UnitedHealth Group,4.0,8.0,5.0,4.0,Insurance,Health,6.0,4.5,5.25,-1.0,4.0,0.75
+TEGNA,12.0,12.0,2.0,12.0,Media,Television,12.0,7.0,9.5,10.0,0.0,0.5833333333333334
+BHP Billiton Ltd.,18.0,34.0,2.0,8.0,Natural Resources,Metals and Mining,21.0,10.0,15.5,16.0,26.0,0.47619047619047616
+Roman Catholic Archdiocese of Philadelphia,0.0,12.0,0.0,12.0,Nonprofit,Religious,12.0,0.0,6.0,0.0,0.0,0.0
+Bristol Myers Squibb,15.0,0.0,8.0,16.0,Pharmaceutical,,8.0,11.5,9.75,7.0,-16.0,1.4375
+Walgreens,6.0,3.0,8.0,24.0,Pharmacies and Drug Stores,,13.5,7.0,10.25,-2.0,-21.0,0.5185185185185185
+Invitation Homes,6.0,6.0,6.0,3.0,Real Estate,,4.5,6.0,5.25,0.0,3.0,1.3333333333333333
+Cushman & Wakefield,9.0,0.0,6.0,6.0,Real Estate,Development and Management,3.0,7.5,5.25,3.0,-6.0,2.5
+"L Brands, Inc.",14.0,0.0,6.0,6.0,Retail,"Shoes, Accessories and Apparel",3.0,10.0,6.5,8.0,-6.0,3.3333333333333335
+Chronosphere,16.0,8.0,16.0,8.0,Technology,B2B Tech Services,8.0,16.0,12.0,0.0,0.0,2.0
+Dropbox,24.0,0.0,24.0,24.0,Technology,Consumer Internet,12.0,24.0,18.0,0.0,-24.0,2.0
+Fairygodboss Inc.,12.0,0.0,21.0,3.0,Technology,Consumer Internet,1.5,16.5,9.0,-9.0,-3.0,11.0
+SiriusXM & Pandora,14.0,0.0,14.0,2.0,Technology,Consumer Internet,1.0,14.0,7.5,0.0,-2.0,14.0
+Stack Overflow,16.0,0.0,16.0,8.0,Technology,Consumer Internet,4.0,16.0,10.0,0.0,-8.0,4.0
+Electronic Arts,11.0,12.0,11.0,12.0,Technology,Gaming,12.0,11.0,11.5,0.0,0.0,0.9166666666666666
+Ginkgo Bioworks,12.0,0.0,2.0,0.0,Technology,Research,0.0,7.0,3.5,10.0,0.0,
+Avalara,12.0,15.0,12.0,12.0,Technology,Software,13.5,12.0,12.75,0.0,3.0,0.8888888888888888
+Cornerstone OnDemand,14.0,0.0,6.0,12.0,Technology,Software,6.0,10.0,8.0,8.0,-12.0,1.6666666666666667
+"ExamSoft Worldwide, Inc.",4.0,12.0,2.0,12.0,Technology,Software,12.0,3.0,7.5,2.0,0.0,0.25
+Medidata Solutions,16.0,24.0,16.0,24.0,Technology,Software,24.0,16.0,20.0,0.0,0.0,0.6666666666666666
+"Sulzer US, LLC",4.0,12.0,2.0,12.0,Technology,Software,12.0,3.0,7.5,2.0,0.0,0.25
+Thryv,0.0,3.0,0.0,0.0,Technology,Software,1.5,0.0,0.75,0.0,3.0,0.0
+T-Mobile,7.5,3.0,3.0,4.0,Telecommunications,,3.5,5.25,4.375,4.5,-1.0,1.5
+CBIZ,3.5,6.0,1.0,,Accounting Services,,6.0,2.25,4.125,2.5,,0.375
+CliftonLarsonAllen,9.5,6.0,6.0,,Accounting Services,,6.0,7.75,6.875,3.5,,1.2916666666666667
+Forvis,12.0,,2.0,12.0,Accounting Services,,12.0,7.0,9.5,10.0,,0.5833333333333334
+Grant Thornton,51.0,51.0,51.0,,Accounting Services,,51.0,51.0,51.0,0.0,,1.0
+RSM US,12.0,0.0,7.0,,Accounting Services,,0.0,9.5,4.75,5.0,,
+LiveRamp,16.0,6.0,16.0,,Advertising,,6.0,16.0,11.0,0.0,,2.6666666666666665
+Boeing,12.0,9.0,12.0,,Aerospace,,9.0,12.0,10.5,0.0,,1.3333333333333333
+Cessna Aircraft Company,8.0,10.0,12.0,,Aerospace,,10.0,10.0,10.0,-4.0,,1.0
+Collins Aerospace,12.0,0.0,4.0,,Aerospace,,0.0,8.0,4.0,8.0,,
+Collins Aerospace,4.0,12.0,4.0,,Aerospace,,12.0,4.0,8.0,0.0,,0.3333333333333333
+Lockheed Martin Corporation,6.0,1.0,4.0,,Aerospace,,1.0,5.0,3.0,2.0,,5.0
+FCA US LLC,7.5,1.0,6.0,,Automotive,Manufacturers,1.0,6.75,3.875,1.5,,6.75
+Ford Motor Company,12.0,0.0,8.0,,Automotive,Manufacturers,0.0,10.0,5.0,4.0,,
+General Motors,12.0,12.0,12.0,,Automotive,Manufacturers,12.0,12.0,12.0,0.0,,1.0
+Toyota North America,6.0,1.5,0.0,,Automotive,Manufacturers,1.5,3.0,2.25,6.0,,2.0
+Johnson Controls,6.0,6.0,0.0,,Automotive,Parts Manufacturing,6.0,3.0,4.5,6.0,,0.5
+ADP,6.0,6.0,16.0,,Business Services,Human Resources,6.0,11.0,8.5,-10.0,,1.8333333333333333
+IHS Markit Ltd.,26.0,13.0,2.0,,Business Services,Other,13.0,14.0,13.5,24.0,,1.0769230769230769
+Samsung Research America,6.0,0.0,6.0,,Business Services,Other,0.0,6.0,3.0,0.0,,
+Adecco Group North America,12.0,6.0,0.0,,Business Services,Staffing and Outsourcing,6.0,6.0,6.0,12.0,,1.0
+CGI,8.0,0.0,2.0,,Business Services,Technology Solutions,0.0,5.0,2.5,6.0,,
+Paychex,9.0,3.0,6.0,,Business Services,Technology Solutions,3.0,7.5,5.25,3.0,,2.5
+"Ecolab, Inc.",9.0,0.0,6.0,,Conglomerate,,0.0,7.5,3.75,3.0,,
+Siemens,6.0,0.5,2.0,,Conglomerate,,0.5,4.0,2.25,4.0,,8.0
+84.51¡,12.0,0.0,4.0,,Consulting Services,,0.0,8.0,4.0,8.0,,
+Boston Consulting Group,16.0,0.0,8.0,,Consulting Services,,0.0,12.0,6.0,8.0,,
+Deloitte,16.0,4.0,9.0,,Consulting Services,,4.0,12.5,8.25,7.0,,3.125
+KPMG,12.0,10.0,12.0,,Consulting Services,,10.0,12.0,11.0,0.0,,1.2
+McKinsey & Company,16.0,26.0,8.0,,Consulting Services,,26.0,12.0,19.0,8.0,,0.46153846153846156
+Pariveda,6.0,0.0,6.0,,Consulting Services,,0.0,6.0,3.0,0.0,,
+Protiviti,9.0,0.0,10.0,,Consulting Services,,0.0,9.5,4.75,-1.0,,
+Slalom,14.0,0.0,4.0,,Consulting Services,,0.0,9.0,4.5,10.0,,
+Campari America,12.0,,12.0,6.0,Consumer Packaged Goods,Beverages,6.0,12.0,9.0,0.0,,2.0
+Miller Coors,16.0,34.0,16.0,,Consumer Packaged Goods,Beverages,34.0,16.0,25.0,0.0,,0.47058823529411764
+General Mills,18.0,12.0,12.0,,Consumer Packaged Goods,Packaged Foods,12.0,15.0,13.5,6.0,,1.25
+"Mondelez International, Inc.",6.0,9.5,6.0,,Consumer Packaged Goods,Packaged Foods,9.5,6.0,7.75,0.0,,0.631578947368421
+Johnson & Johnson,16.0,24.0,8.0,,Consumer Packaged Goods,Packaged Products,24.0,12.0,18.0,8.0,,0.5
+Reckitt Benckiser,21.0,31.0,16.0,,Consumer Packaged Goods,Packaged Products,31.0,18.5,24.75,5.0,,0.5967741935483871
+Unilever,16.0,4.0,8.0,,Consumer Packaged Goods,Packaged Products,4.0,12.0,8.0,8.0,,3.0
+Hasbro Inc.,18.0,18.0,,13.0,Consumer Packaged Goods,Toys and Baby Products,15.5,18.0,16.75,,5.0,1.1612903225806452
+L'OrŽal USA,12.0,0.0,8.0,,Cosmetics,,0.0,10.0,5.0,4.0,,
+Raytheon Technologies,7.5,3.0,3.0,,Defense and Space,,3.0,5.25,4.125,4.5,,1.75
+Rice University,6.0,6.0,0.0,,Educational Services,College and Universities,6.0,3.0,4.5,6.0,,0.5
+University of Minnesota,6.0,6.0,6.0,,Educational Services,College and Universities,6.0,6.0,6.0,0.0,,1.0
+Walden University,6.0,6.0,1.0,,Educational Services,College and Universities,6.0,3.5,4.75,5.0,,0.5833333333333334
+Cengage Learning,12.0,0.0,12.0,,Educational Services,E-Learning,0.0,12.0,6.0,0.0,,
+Samsung Electronics,2.0,12.0,2.0,,Electronics,Manufacturing,12.0,2.0,7.0,0.0,,0.16666666666666666
+Apollo Global Management,16.0,,2.0,0.0,Finance,Asset Management,0.0,9.0,4.5,14.0,,
+Capital Group,12.0,0.0,18.0,,Finance,Asset Management,0.0,15.0,7.5,-6.0,,
+Merrill,11.0,6.0,16.0,,Finance,Asset Management,6.0,13.5,9.75,-5.0,,2.25
+Discover Financial Services,16.0,0.0,2.0,,Finance,Credit and Fund Services,0.0,9.0,4.5,14.0,,
+Mastercard,16.0,0.0,16.0,,Finance,Credit and Fund Services,0.0,16.0,8.0,0.0,,
+Ally Financial,12.0,0.0,12.0,,Finance,Diversified,0.0,12.0,6.0,0.0,,
+Ameriprise Financial,12.0,4.0,2.0,,Finance,Diversified,4.0,7.0,5.5,10.0,,1.75
+Charles Schwab,8.0,6.0,6.0,,Finance,Diversified,6.0,7.0,6.5,2.0,,1.1666666666666667
+Citigroup,16.0,4.0,4.5,,Finance,Diversified,4.0,10.25,7.125,11.5,,2.5625
+Deutsche Bank,16.0,5.0,16.0,,Finance,Diversified,5.0,16.0,10.5,0.0,,3.2
+DTCC,16.0,4.0,16.0,,Finance,Diversified,4.0,16.0,10.0,0.0,,4.0
+Goldman Sachs,20.0,3.0,20.0,,Finance,Diversified,3.0,20.0,11.5,0.0,,6.666666666666667
+Macquarie Group,16.0,0.0,6.0,,Finance,Diversified,0.0,11.0,5.5,10.0,,
+Northern Trust,10.0,6.0,10.0,,Finance,Diversified,6.0,10.0,8.0,0.0,,1.6666666666666667
+Raymond James,16.0,0.0,4.0,,Finance,Diversified,0.0,10.0,5.0,12.0,,
+RBC Wealth Management,11.5,10.0,4.0,,Finance,Diversified,10.0,7.75,8.875,7.5,,0.775
+Silicon Valley Bank,12.0,0.0,12.0,,Finance,Diversified,0.0,12.0,6.0,0.0,,
+UBS,24.0,24.0,20.0,,Finance,Diversified,24.0,22.0,23.0,4.0,,0.9166666666666666
+Wells Fargo,16.0,5.0,4.0,,Finance,Diversified,5.0,10.0,7.5,12.0,,2.0
+William Blair,18.0,0.0,2.0,,Finance,Diversified,0.0,10.0,5.0,16.0,,
+SoFi,4.0,5.0,2.0,,Finance,Loans,5.0,3.0,4.0,2.0,,0.6
+PNC Financial Services Group,12.0,0.0,6.0,,Finance,Personal and Commercial Banking,0.0,9.0,4.5,6.0,,
+TD Bank,16.0,13.0,16.0,,Finance,Personal and Commercial Banking,13.0,16.0,14.5,0.0,,1.2307692307692308
+TIAA Bank,28.0,0.0,16.0,,Finance,Personal and Commercial Banking,0.0,22.0,11.0,12.0,,
+OECD,14.0,0.0,4.0,,Government,International,0.0,9.0,4.5,10.0,,
+Banfield Pet Hospital,6.0,12.0,4.0,,Healthcare,Animal Health,12.0,5.0,8.5,2.0,,0.4166666666666667
+Illumina,6.0,3.0,6.0,,Healthcare,Biotechnology,3.0,6.0,4.5,0.0,,2.0
+Thermo Fisher Scientific,11.5,1.0,3.0,,Healthcare,Biotechnology,1.0,7.25,4.125,8.5,,7.25
+CVS Health,4.0,4.0,4.0,,Healthcare,Diversified,4.0,4.0,4.0,0.0,,1.0
+Fresenius,4.0,12.0,0.0,,Healthcare,Diversified,12.0,2.0,7.0,4.0,,0.16666666666666666
+Aurora Health Care,0.0,12.0,,0.0,Healthcare,Hospitals and Clinics,6.0,0.0,3.0,,12.0,0.0
+Mayo Clinic,5.0,6.5,0.0,,Healthcare,Hospitals and Clinics,6.5,2.5,4.5,5.0,,0.38461538461538464
+"Universal Health Services, Inc.",0.0,12.0,0.0,,Healthcare,Hospitals and Clinics,12.0,0.0,6.0,0.0,,0.0
+University of Pittsburgh Medical Center,2.0,6.0,2.0,,Healthcare,Hospitals and Clinics,6.0,2.0,4.0,0.0,,0.3333333333333333
+Quest Diagnostics,6.0,0.0,,0.0,Healthcare,Laboratory Testing,0.0,6.0,3.0,,0.0,
+"Becton, Dickinson and Company",6.0,12.0,6.0,,Healthcare,Medical Devices,12.0,6.0,9.0,0.0,,0.5
+Medtronic,12.0,2.0,0.0,,Healthcare,Medical Devices,2.0,6.0,4.0,12.0,,3.0
+Zimmer Biomet,8.0,4.0,6.0,,Healthcare,Medical Devices,4.0,7.0,5.5,2.0,,1.75
+Flatiron Health,30.0,15.0,30.0,,Healthcare,Telemedicine,15.0,30.0,22.5,0.0,,2.0
+Choice Hotels,12.0,0.0,4.0,,Hospitality,Hotels,0.0,8.0,4.0,8.0,,
+Marriott International,8.0,8.0,8.0,,Hospitality,Hotels,8.0,8.0,8.0,0.0,,1.0
+McDonald's,12.0,12.0,,29.0,Hospitality,Restaurants,20.5,12.0,16.25,,-17.0,0.5853658536585366
+Starbucks,6.0,9.0,6.0,,Hospitality,Restaurants,9.0,6.0,7.5,0.0,,0.6666666666666666
+Perkins + Will,4.0,0.0,4.0,,Industrial,Architecture and Design,0.0,4.0,2.0,0.0,,
+Owens Corning,4.0,4.0,,2.0,Industrial,Building Materials Manufacturing,3.0,4.0,3.5,,2.0,1.3333333333333333
+Power Home Remodeling,12.0,0.0,3.0,,Industrial,Construction Company,0.0,7.5,3.75,9.0,,
+3M,10.0,10.0,,10.0,Industrial,Diversified,10.0,10.0,10.0,,0.0,1.0
+Parker Hannifin,4.0,8.0,0.0,,Industrial,Diversified,8.0,2.0,5.0,4.0,,0.25
+BEUMER Group,4.0,0.0,4.0,,Industrial,Equipment Manufacturing,0.0,4.0,2.0,0.0,,
+Caterpillar,5.0,6.0,4.0,,Industrial,Equipment Manufacturing,6.0,4.5,5.25,1.0,,0.75
+CNH Industrial America,6.0,6.0,4.0,,Industrial,Equipment Manufacturing,6.0,5.0,5.5,2.0,,0.8333333333333334
+Cummins,12.0,10.0,6.0,,Industrial,Equipment Manufacturing,10.0,9.0,9.5,6.0,,0.9
+Hilti Corporation,12.0,2.0,4.0,,Industrial,Equipment Manufacturing,2.0,8.0,5.0,8.0,,4.0
+nVent,6.0,0.0,6.0,,Industrial,Equipment Manufacturing,0.0,6.0,3.0,0.0,,
+Rockwell Automation,6.0,9.0,6.0,,Industrial,Equipment Manufacturing,9.0,6.0,7.5,0.0,,0.6666666666666666
+McMaster-Carr,16.0,4.0,4.0,,Industrial,Other,4.0,10.0,7.0,12.0,,2.5
+Argus Media,8.0,12.0,1.0,,Information Services,Diversified,12.0,4.5,8.25,7.0,,0.375
+LAC-Group,32.5,0.0,35.0,,Information Services,Diversified,0.0,33.75,16.875,-2.5,,
+S&P Global,18.0,0.0,23.0,,Information Services,Financial,0.0,20.5,10.25,-5.0,,
+DXC Technology,9.0,36.0,1.0,,Information Services,Technology,36.0,5.0,20.5,8.0,,0.1388888888888889
+Forrester Research,15.0,6.0,2.0,,Information Services,Technology,6.0,8.5,7.25,13.0,,1.4166666666666667
+General Dynamics Information Technology,2.0,19.0,1.0,,Information Services,Technology,19.0,1.5,10.25,1.0,,0.07894736842105263
+AON,8.0,8.0,6.0,,Insurance,Diversified,8.0,7.0,7.5,2.0,,0.875
+Aetna,12.0,12.0,4.0,,Insurance,Health,12.0,8.0,10.0,8.0,,0.6666666666666666
+Health Care Service Corporation,6.0,3.0,,6.0,Insurance,Health,4.5,6.0,5.25,,-3.0,1.3333333333333333
+Highmark Inc.,6.0,4.0,,4.0,Insurance,Health,4.0,6.0,5.0,,0.0,1.5
+Humana,6.0,6.0,6.0,,Insurance,Health,6.0,6.0,6.0,0.0,,1.0
+Kaiser Permanente,3.0,3.0,0.0,,Insurance,Health,3.0,1.5,2.25,3.0,,0.5
+Combined Insurance,15.0,3.0,,0.0,Insurance,Life,1.5,15.0,8.25,,3.0,10.0
+Root Insurance,12.0,0.0,12.0,,Insurance,Property and Casualty,0.0,12.0,6.0,0.0,,
+State Farm,9.0,0.0,6.0,,Insurance,Property and Casualty,0.0,7.5,3.75,3.0,,
+The Hanover Insurance Group,8.0,4.0,2.0,,Insurance,Property and Casualty,4.0,5.0,4.5,6.0,,1.25
+Holland & Knight LLP,4.0,8.0,6.0,,Law Firm,,8.0,5.0,6.5,-2.0,,0.625
+"Orrick, Herrington & Sutcliffe LLP",23.0,2.0,16.0,,Law Firm,,2.0,19.5,10.75,7.0,,9.75
+Expedia Group,18.0,4.0,12.0,,"Leisure, Travel and Tourism",,4.0,15.0,9.5,6.0,,3.75
+WarnerMedia,9.0,2.0,6.0,,Media,Diversified,2.0,7.5,4.75,3.0,,3.75
+Cargill,12.0,0.0,4.0,,Natural Resources,Agriculture and Food Processing,0.0,8.0,4.0,8.0,,
+Air Liquide,14.0,,6.0,0.0,Natural Resources,Chemicals,0.0,10.0,5.0,8.0,,
+Dow,12.0,0.0,,16.0,Natural Resources,Chemicals,8.0,12.0,10.0,,-16.0,1.5
+Ineos,6.5,9.0,0.0,,Natural Resources,Chemicals,9.0,3.25,6.125,6.5,,0.3611111111111111
+Ingevity Corporation,10.0,1.0,4.0,,Natural Resources,Chemicals,1.0,7.0,4.0,6.0,,7.0
+PolyOne Corporation,6.0,12.0,6.0,,Natural Resources,Chemicals,12.0,6.0,9.0,0.0,,0.5
+Consumers Energy,6.0,0.0,16.0,,Natural Resources,Electric and Gas Utility,0.0,11.0,5.5,-10.0,,
+NextEra Energy,3.0,9.0,0.0,,Natural Resources,Electric Power Generation,9.0,1.5,5.25,3.0,,0.16666666666666666
+Chevron,12.0,26.0,8.0,,Natural Resources,Oil and Gas,26.0,10.0,18.0,4.0,,0.38461538461538464
+Phillips 66,9.0,12.0,2.0,,Natural Resources,Oil and Gas,12.0,5.5,8.75,7.0,,0.4583333333333333
+Range Resources,9.0,6.0,2.0,,Natural Resources,Oil and Gas,6.0,5.5,5.75,7.0,,0.9166666666666666
+American Water,2.0,0.0,,12.0,Natural Resources,Renewables and Environment,6.0,2.0,4.0,,-12.0,0.3333333333333333
+Make-A-Wish Foundation,6.0,12.0,0.0,,Nonprofit,Charity,12.0,3.0,7.5,6.0,,0.25
+Wikimedia Foundation,12.0,5.0,7.0,,Nonprofit,Education,5.0,9.5,7.25,5.0,,1.9
+Girl Scouts of the USA,6.0,0.0,6.0,,Nonprofit,Human Rights Advocacy,0.0,6.0,3.0,0.0,,
+RAND Corporation,5.5,0.0,3.0,,Nonprofit,Public Policy,0.0,4.25,2.125,2.5,,
+The MITRE Corporation,7.0,0.0,2.0,,Nonprofit,Research,0.0,4.5,2.25,5.0,,
+Abbott Nutrition,8.0,16.0,2.0,,Pharmaceutical,,16.0,5.0,10.5,6.0,,0.3125
+GlaxoSmithKline,14.0,0.0,8.0,,Pharmaceutical,,0.0,11.0,5.5,6.0,,
+McKesson,6.0,0.0,6.0,,Pharmaceutical,,0.0,6.0,3.0,0.0,,
+Vertex Pharmaceuticals,16.0,0.0,8.0,,Pharmaceutical,,0.0,12.0,6.0,8.0,,
+Bill and Melinda Gates Foundation,26.0,11.0,26.0,,Philanthropy,,11.0,26.0,18.5,0.0,,2.3636363636363638
+MOO,2.0,40.0,2.0,,Printing,,40.0,2.0,21.0,0.0,,0.05
+Elsevier,39.0,0.5,1.0,,Publishing,,0.5,20.0,10.25,38.0,,40.0
+Wiley Publishing,6.0,6.0,4.0,,Publishing,,6.0,5.0,5.5,2.0,,0.8333333333333334
+Bidwells LLP,14.0,38.0,2.0,,Real Estate,Other,38.0,8.0,23.0,12.0,,0.21052631578947367
+Realtor.com,20.0,0.0,4.0,,Real Estate,Other,0.0,12.0,6.0,16.0,,
+Kohl's,6.0,9.0,4.0,,Retail,Department Store,9.0,5.0,7.0,2.0,,0.5555555555555556
+Home Depot,6.0,6.0,6.0,,Retail,Furniture and Home Improvement,6.0,6.0,6.0,0.0,,1.0
+Wayfair,12.0,2.0,4.0,,Retail,Furniture and Home Improvement,2.0,8.0,5.0,8.0,,4.0
+Columbia Sportswear,4.0,8.0,6.0,,Retail,"Shoes, Accessories and Apparel",8.0,5.0,6.5,-2.0,,0.625
+Luxottica Group SpA,8.5,6.0,2.0,,Retail,"Shoes, Accessories and Apparel",6.0,5.25,5.625,6.5,,0.875
+Target,6.0,6.0,4.0,,Retail,"Shoes, Accessories and Apparel",6.0,5.0,5.5,2.0,,0.8333333333333334
+Meijer,5.0,3.0,4.0,,Retail,Supermarket Company,3.0,4.5,3.75,1.0,,1.5
+Publix Super Markets,2.0,6.5,,0.0,Retail,Supermarket Company,3.25,2.0,2.625,,6.5,0.6153846153846154
+Athenahealth,12.0,0.0,6.0,,Technology,B2B Tech Services,0.0,9.0,4.5,6.0,,
+CDW Corporation,6.0,4.0,2.0,,Technology,B2B Tech Services,4.0,4.0,4.0,4.0,,1.0
+Cerner Corporation,12.0,0.0,4.0,,Technology,B2B Tech Services,0.0,8.0,4.0,8.0,,
+Elastic,16.0,0.0,16.0,,Technology,B2B Tech Services,0.0,16.0,8.0,0.0,,
+Equinix,8.0,4.0,8.0,,Technology,B2B Tech Services,4.0,8.0,6.0,0.0,,2.0
+Hewlett Packard Enterprise,26.0,6.0,26.0,,Technology,B2B Tech Services,6.0,26.0,16.0,0.0,,4.333333333333333
+Tata Consultancy Services,24.0,,1.0,4.0,Technology,B2B Tech Services,4.0,12.5,8.25,23.0,,3.125
+Amazon,12.0,0.0,6.0,,Technology,Consumer Internet,0.0,9.0,4.5,6.0,,
+Angie's List,11.0,6.0,6.0,,Technology,Consumer Internet,6.0,8.5,7.25,5.0,,1.4166666666666667
+Birchbox,14.0,0.0,12.0,,Technology,Consumer Internet,0.0,13.0,6.5,2.0,,
+Box,18.0,1.0,12.0,,Technology,Consumer Internet,1.0,15.0,8.0,6.0,,15.0
+eBay,12.0,0.0,12.0,,Technology,Consumer Internet,0.0,12.0,6.0,0.0,,
+Glassdoor,20.0,0.0,12.0,,Technology,Consumer Internet,0.0,16.0,8.0,8.0,,
+Google,24.0,0.0,18.0,,Technology,Consumer Internet,0.0,21.0,10.5,6.0,,
+Indeed,16.0,0.0,16.0,,Technology,Consumer Internet,0.0,16.0,8.0,0.0,,
+LinkedIn,20.0,4.0,12.0,,Technology,Consumer Internet,4.0,16.0,10.0,8.0,,4.0
+Tinder,18.0,0.0,18.0,,Technology,Consumer Internet,0.0,18.0,9.0,0.0,,
+Uber,18.0,0.0,18.0,,Technology,Consumer Internet,0.0,18.0,9.0,0.0,,
+FIS Global,6.0,0.0,6.0,,Technology,Financial Services,0.0,6.0,3.0,0.0,,
+Jack Henry,8.0,7.0,2.0,,Technology,Financial Services,7.0,5.0,6.0,6.0,,0.7142857142857143
+Personal Capital,2.0,0.0,6.0,,Technology,Financial Services,0.0,4.0,2.0,-4.0,,
+Zwift,12.0,6.0,12.0,,Technology,Gaming,6.0,12.0,9.0,0.0,,2.0
+Zynga,26.0,0.0,18.0,,Technology,Gaming,0.0,22.0,11.0,8.0,,
+Apple,14.0,6.0,4.0,,Technology,Manufacturing,6.0,9.0,7.5,10.0,,1.5
+Cisco,13.0,2.0,0.0,,Technology,Manufacturing,2.0,6.5,4.25,13.0,,3.25
+Dell Technologies,12.0,0.0,12.0,,Technology,Manufacturing,0.0,12.0,6.0,0.0,,
+Garmin,2.0,12.0,,0.0,Technology,Manufacturing,6.0,2.0,4.0,,12.0,0.3333333333333333
+IBM,12.0,0.0,12.0,,Technology,Manufacturing,0.0,12.0,6.0,0.0,,
+Intel Corporation,8.0,12.0,7.5,,Technology,Manufacturing,12.0,7.75,9.875,0.5,,0.6458333333333334
+Western Digital,8.0,0.0,12.0,,Technology,Manufacturing,0.0,10.0,5.0,-4.0,,
+VISA,13.0,8.0,10.0,,Technology,Payments,8.0,11.5,9.75,3.0,,1.4375
+Waters Corporation,8.0,4.0,1.0,,Technology,Research,4.0,4.5,4.25,7.0,,1.125
+Forcepoint,12.0,3.0,6.0,,Technology,Security,3.0,9.0,6.0,6.0,,3.0
+Tanium,16.0,0.0,8.0,,Technology,Security,0.0,12.0,6.0,8.0,,
+Addepar,19.0,0.0,10.0,,Technology,Software,0.0,14.5,7.25,9.0,,
+Adobe Systems,17.0,15.0,16.0,,Technology,Software,15.0,16.5,15.75,1.0,,1.1
+Appian,16.0,0.0,12.0,,Technology,Software,0.0,14.0,7.0,4.0,,
+"Calabrio, Inc.",3.0,3.0,0.0,,Technology,Software,3.0,1.5,2.25,3.0,,0.5
+Epic Systems,2.0,11.0,2.0,,Technology,Software,11.0,2.0,6.5,0.0,,0.18181818181818182
+FactSet,16.0,0.0,4.0,,Technology,Software,0.0,10.0,5.0,12.0,,
+GitHub,20.0,4.0,20.0,,Technology,Software,4.0,20.0,12.0,0.0,,5.0
+Klaviyo,16.0,0.0,16.0,,Technology,Software,0.0,16.0,8.0,0.0,,
+Mindbody,12.0,2.0,,18.0,Technology,Software,10.0,12.0,11.0,,-16.0,1.2
+NexJ Systems Inc.,13.0,52.0,13.0,,Technology,Software,52.0,13.0,32.5,0.0,,0.25
+Pegasystems Inc.,12.0,6.0,4.0,,Technology,Software,6.0,8.0,7.0,8.0,,1.3333333333333333
+Qualitest Group,26.0,0.0,0.0,,Technology,Software,0.0,13.0,6.5,26.0,,
+Salesforce,26.0,0.0,26.0,,Technology,Software,0.0,26.0,13.0,0.0,,
+ServiceNow,20.0,0.0,12.0,,Technology,Software,0.0,16.0,8.0,8.0,,
+Slack Technologies,20.0,0.0,12.0,,Technology,Software,0.0,16.0,8.0,8.0,,
+UKG,12.0,0.0,4.0,,Technology,Software,0.0,8.0,4.0,8.0,,
+Workiva,12.0,8.0,12.0,,Technology,Software,8.0,12.0,10.0,0.0,,1.5
+"Zendesk, Inc",11.0,2.0,10.5,,Technology,Software,2.0,10.75,6.375,0.5,,5.375
+DISH,0.0,12.0,0.0,,Telecommunications,,12.0,0.0,6.0,0.0,,0.0
+Lumen,12.0,1.0,6.0,,Telecommunications,,1.0,9.0,5.0,6.0,,9.0
+Spectrum,6.0,6.0,2.0,,Telecommunications,,6.0,4.0,5.0,4.0,,0.6666666666666666
+Verizon,8.0,4.0,8.0,,Telecommunications,,4.0,8.0,6.0,0.0,,2.0
+Viasat,16.0,0.0,9.0,,Telecommunications,,0.0,12.5,6.25,7.0,,
+Zoom,11.0,6.0,16.0,,Telecommunications,,6.0,13.5,9.75,-5.0,,2.25
+FedEx,2.0,28.0,2.0,,Transportation,Couriers and Delivery,28.0,2.0,15.0,0.0,,0.07142857142857142
+Instacart,16.0,4.0,12.0,,Transportation,Couriers and Delivery,4.0,14.0,9.0,4.0,,3.5
+C.H. Robinson,2.0,6.0,2.0,,Transportation,Freight and Logistics,6.0,2.0,4.0,0.0,,0.3333333333333333
+Virgin Hyperloop One,16.0,2.0,16.0,,Transportation,Rail,2.0,16.0,9.0,0.0,,8.0
+ClassPass,14.0,12.0,4.0,,Wellness and Fitness,,12.0,9.0,10.5,10.0,,0.75
+Sysco,6.0,6.0,0.0,,Wholesale,,6.0,3.0,4.5,6.0,,0.5
+US Foods,6.0,6.0,2.0,,Wholesale,,6.0,4.0,5.0,4.0,,0.6666666666666666
+BerryDunn,6.0,6.0,,,Accounting Services,,6.0,6.0,6.0,,,1.0
+Crowe,6.0,0.0,,,Accounting Services,,0.0,6.0,3.0,,,
+Eisneramper,8.0,12.0,,,Accounting Services,,12.0,8.0,10.0,,,0.6666666666666666
+Fathom,12.0,0.0,,,Accounting Services,,0.0,12.0,6.0,,,
+Kearney & Company,4.0,0.0,,,Accounting Services,,0.0,4.0,2.0,,,
+Marcum LLP,8.0,8.0,,,Accounting Services,,8.0,8.0,8.0,,,1.0
+Myers & Stauffer LC,8.0,52.0,,,Accounting Services,,52.0,8.0,30.0,,,0.15384615384615385
+Ryan LLC,14.0,6.0,,,Accounting Services,,6.0,14.0,10.0,,,2.3333333333333335
+Acceleration Partners,6.0,6.0,,,Advertising,,6.0,6.0,6.0,,,1.0
+AdTheorent,6.0,0.0,,,Advertising,,0.0,6.0,3.0,,,
+Affinion Group,4.0,4.0,,,Advertising,,4.0,4.0,4.0,,,1.0
+Ampersand,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Ansira,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+BBDO,3.0,12.0,,,Advertising,,12.0,3.0,7.5,,,0.25
+Cares Pro LLC,10.0,10.0,,,Advertising,,10.0,10.0,10.0,,,1.0
+Code And Theory,4.0,0.0,,,Advertising,,0.0,4.0,2.0,,,
+Constant Contact,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Conversant Media,12.0,4.0,,,Advertising,,4.0,12.0,8.0,,,3.0
+Create NYC,8.0,0.0,,,Advertising,,0.0,8.0,4.0,,,
+DIGO,6.0,9.0,,,Advertising,,9.0,6.0,7.5,,,0.6666666666666666
+Essence Digital,1.0,0.0,,,Advertising,,0.0,1.0,0.5,,,
+Goodway Group,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Hawkeye Agency,11.0,1.0,,,Advertising,,1.0,11.0,6.0,,,11.0
+Hill Holliday,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Hirshorn Zuckerman Design Group,2.0,12.0,,,Advertising,,12.0,2.0,7.0,,,0.16666666666666666
+Hootsuite,36.0,36.0,,,Advertising,,36.0,36.0,36.0,,,1.0
+Huge Inc,12.0,24.0,,,Advertising,,24.0,12.0,18.0,,,0.5
+Launch Potato,8.0,8.0,,,Advertising,,8.0,8.0,8.0,,,1.0
+Media Directions Advertising,1.0,1.0,,,Advertising,,1.0,1.0,1.0,,,1.0
+MediaCom,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Monigle,6.0,6.0,,,Advertising,,6.0,6.0,6.0,,,1.0
+National Cinemedia,4.0,8.0,,,Advertising,,8.0,4.0,6.0,,,0.5
+News America Marketing,12.0,12.0,,,Advertising,,12.0,12.0,12.0,,,1.0
+Ogilvy,48.0,4.0,,,Advertising,,4.0,48.0,26.0,,,12.0
+Omnicom Media Group,2.0,10.0,,,Advertising,,10.0,2.0,6.0,,,0.2
+PGR Media,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Pico,13.0,0.0,,,Advertising,,0.0,13.0,6.5,,,
+R/GA,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+Radancy,3.0,9.0,,,Advertising,,9.0,3.0,6.0,,,0.3333333333333333
+Radius Intelligence,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+ReachLocal,6.0,0.0,,,Advertising,,0.0,6.0,3.0,,,
+Saatchi & Saatchi,4.5,14.0,,,Advertising,,14.0,4.5,9.25,,,0.32142857142857145
+SapientRazorfish,6.0,4.0,,,Advertising,,4.0,6.0,5.0,,,1.5
+SmartBug Media,4.0,2.0,,,Advertising,,2.0,4.0,3.0,,,2.0
+Spectrum Science,13.0,13.0,,,Advertising,,13.0,13.0,13.0,,,1.0
+Stage Marketing,4.0,8.0,,,Advertising,,8.0,4.0,6.0,,,0.5
+Tag Worldwide,6.0,6.0,,,Advertising,,6.0,6.0,6.0,,,1.0
+The Richards Group,12.0,0.0,,,Advertising,,0.0,12.0,6.0,,,
+UNiDAYS,20.0,0.0,,,Advertising,,0.0,20.0,10.0,,,
+VaynerMedia,7.0,12.0,,,Advertising,,12.0,7.0,9.5,,,0.5833333333333334
+Wavemaker,9.0,2.0,,,Advertising,,2.0,9.0,5.5,,,4.5
+Wunderman DC,24.0,0.0,,,Advertising,,0.0,24.0,12.0,,,
+Zenith Media,3.0,9.0,,,Advertising,,9.0,3.0,6.0,,,0.3333333333333333
+AMG Research,4.0,12.0,,,Advertising,Market Research,12.0,4.0,8.0,,,0.3333333333333333
+eMarketer,12.0,0.0,,,Advertising,Market Research,0.0,12.0,6.0,,,
+Hanover Research,12.0,6.0,,,Advertising,Market Research,6.0,12.0,9.0,,,2.0
+Acubed,12.0,1.0,,,Aerospace,,1.0,12.0,6.5,,,12.0
+Honeywell Aerospace,16.0,0.0,,,Aerospace,,0.0,16.0,8.0,,,
+Pratt & Whitney,12.0,12.0,,,Aerospace,,12.0,12.0,12.0,,,1.0
+SpaceX,8.0,10.0,,,Aerospace,,10.0,8.0,9.0,,,0.8
+Boston Ballet,12.0,12.0,,,Arts and Entertainment,,12.0,12.0,12.0,,,1.0
+Creative Artists Agency,12.0,,12.0,,Arts and Entertainment,,,12.0,12.0,0.0,,
+Disney Streaming Services,12.0,10.0,,,Arts and Entertainment,,10.0,12.0,11.0,,,1.2
+GoDigital Media Group,0.0,,0.0,,Arts and Entertainment,,,0.0,0.0,0.0,,
+LaneOne,6.0,0.0,,,Arts and Entertainment,,0.0,6.0,3.0,,,
+Live Nation,24.0,12.0,,,Arts and Entertainment,,12.0,24.0,18.0,,,2.0
+Camping World,8.0,0.0,,,Automotive,Dealers,0.0,8.0,4.0,,,
+Young Automotive Group,3.0,12.0,,,Automotive,Dealers,12.0,3.0,7.5,,,0.25
+Aptiv PLC,6.0,14.0,,,Automotive,Manufacturers,14.0,6.0,10.0,,,0.42857142857142855
+Mercedes-Benz Research & Development North America,24.0,0.0,,,Automotive,Manufacturers,0.0,24.0,12.0,,,
+Advance Auto Parts,8.0,4.0,,,Automotive,Parts,4.0,8.0,6.0,,,2.0
+Bendix Commercial Vehicle Systems,6.0,0.0,,,Automotive,Parts Manufacturing,0.0,6.0,3.0,,,
+Bridgestone Corporation,8.0,0.0,,,Automotive,Parts Manufacturing,0.0,8.0,4.0,,,
+Continental,4.0,4.0,,,Automotive,Parts Manufacturing,4.0,4.0,4.0,,,1.0
+"Donaldson Company, Inc.",0.0,12.0,,,Automotive,Parts Manufacturing,12.0,0.0,6.0,,,0.0
+Michelin,12.0,0.0,,,Automotive,Parts Manufacturing,0.0,12.0,6.0,,,
+Valvoline,4.0,0.0,,,Automotive,Products and Services,0.0,4.0,2.0,,,
+Aramark,2.0,10.0,,,Business Services,Food and Hospitality,10.0,2.0,6.0,,,0.2
+Cintas Corporation,12.0,12.0,,,Business Services,Food and Hospitality,12.0,12.0,12.0,,,1.0
+ADP Canada Inc,26.0,4.0,,,Business Services,Human Resources,4.0,26.0,15.0,,,6.5
+ADP India,25.0,25.0,,,Business Services,Human Resources,25.0,25.0,25.0,,,1.0
+ADP Philippines,6.5,0.0,,,Business Services,Human Resources,0.0,6.5,3.25,,,
+ADP UK,36.0,12.0,,,Business Services,Human Resources,12.0,36.0,24.0,,,3.0
+ACA Compliance Group,4.0,8.0,,,Business Services,Other,8.0,4.0,6.0,,,0.5
+"BDO USA, LLP",9.0,3.0,,,Business Services,Other,3.0,9.0,6.0,,,3.0
+Brabo Payroll,13.0,13.0,,,Business Services,Other,13.0,13.0,13.0,,,1.0
+Cardlytics,12.0,0.0,,,Business Services,Other,0.0,12.0,6.0,,,
+Cians Analytics,26.0,26.0,,,Business Services,Other,26.0,26.0,26.0,,,1.0
+CoStar Group,6.0,6.0,,,Business Services,Other,6.0,6.0,6.0,,,1.0
+Deluxe Corporation,8.0,0.0,,,Business Services,Other,0.0,8.0,4.0,,,
+EveryDay Labs,12.0,0.0,,,Business Services,Other,0.0,12.0,6.0,,,
+Flexport,16.0,0.0,,,Business Services,Other,0.0,16.0,8.0,,,
+LexisNexis Risk Solutions Group,6.0,6.0,,,Business Services,Other,6.0,6.0,6.0,,,1.0
+LGC Standards,12.0,0.0,,,Business Services,Other,0.0,12.0,6.0,,,
+"LOTH, Inc.",10.0,0.0,,,Business Services,Other,0.0,10.0,5.0,,,
+MIC Global Services,6.0,12.0,,,Business Services,Other,12.0,6.0,9.0,,,0.5
+Moody's Analytics,12.0,0.0,,,Business Services,Other,0.0,12.0,6.0,,,
+Nuclear Energy Institute,12.0,0.0,,,Business Services,Other,0.0,12.0,6.0,,,
+SmithBucklin,2.0,10.0,,,Business Services,Other,10.0,2.0,6.0,,,0.2
+The Larkin Company,12.0,12.0,,,Business Services,Other,12.0,12.0,12.0,,,1.0
+Ticketmaster,23.0,12.0,,,Business Services,Other,12.0,23.0,17.5,,,1.9166666666666667
+UL LLC,13.5,15.5,,,Business Services,Other,15.5,13.5,14.5,,,0.8709677419354839
+United States Chamber of Commerce,8.0,12.0,,,Business Services,Other,12.0,8.0,10.0,,,0.6666666666666666
+247 Private Security,0.0,0.0,,,Business Services,Security,0.0,0.0,0.0,,,
+Allied Universal,5.0,21.0,,,Business Services,Security,21.0,5.0,13.0,,,0.23809523809523808
+Vivint,6.0,6.0,,,Business Services,Security,6.0,6.0,6.0,,,1.0
+24-7 Intouch,0.0,,0.0,,Business Services,Staffing and Outsourcing,,0.0,0.0,0.0,,
+"Aerotek, Inc.",7.0,10.0,,,Business Services,Staffing and Outsourcing,10.0,7.0,8.5,,,0.7
+Beetroot,6.0,52.0,,,Business Services,Staffing and Outsourcing,52.0,6.0,29.0,,,0.11538461538461539
+Caastle,12.0,4.0,,,Business Services,Staffing and Outsourcing,4.0,12.0,8.0,,,3.0
+Concurrent HRO,2.0,2.0,,,Business Services,Staffing and Outsourcing,2.0,2.0,2.0,,,1.0
+Cyberbacker PH,5.0,2.0,,,Business Services,Staffing and Outsourcing,2.0,5.0,3.5,,,2.5
+Daversa Partners,12.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,12.0,6.0,,,
+Hays,4.0,8.0,,,Business Services,Staffing and Outsourcing,8.0,4.0,6.0,,,0.5
+Kforce,1.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,1.0,0.5,,,
+Manpower,20.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,20.0,10.0,,,
+Marketsource,1.0,11.0,,,Business Services,Staffing and Outsourcing,11.0,1.0,6.0,,,0.09090909090909091
+MarketStar,6.0,6.0,,,Business Services,Staffing and Outsourcing,6.0,6.0,6.0,,,1.0
+Maxim Healthcare Services,5.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,5.0,2.5,,,
+nFuzion,4.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,4.0,2.0,,,
+Norwin Technologies,2.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,2.0,1.0,,,
+Populus Group,12.0,12.0,,,Business Services,Staffing and Outsourcing,12.0,12.0,12.0,,,1.0
+Randstad Sourceright,39.0,13.0,,,Business Services,Staffing and Outsourcing,13.0,39.0,26.0,,,3.0
+Recruitics,9.0,4.0,,,Business Services,Staffing and Outsourcing,4.0,9.0,6.5,,,2.25
+Robert Half,6.0,4.0,,,Business Services,Staffing and Outsourcing,4.0,6.0,5.0,,,1.5
+Rochester Telemessaging Center,3.0,12.0,,,Business Services,Staffing and Outsourcing,12.0,3.0,7.5,,,0.25
+Search Solution Group,12.0,6.0,,,Business Services,Staffing and Outsourcing,6.0,12.0,9.0,,,2.0
+TaskUs,6.0,0.0,,,Business Services,Staffing and Outsourcing,0.0,6.0,3.0,,,
+WilsonHCG,26.0,26.0,,,Business Services,Staffing and Outsourcing,26.0,26.0,26.0,,,1.0
+Alight Solutions,8.0,2.0,,,Business Services,Technology Solutions,2.0,8.0,5.0,,,4.0
+Allied Telecom Group,10.0,0.0,,,Business Services,Technology Solutions,0.0,10.0,5.0,,,
+Bazaarvoice,12.0,0.0,,,Business Services,Technology Solutions,0.0,12.0,6.0,,,
+Broadridge Financial Solutions Group,10.5,18.0,,,Business Services,Technology Solutions,18.0,10.5,14.25,,,0.5833333333333334
+CareDox,12.0,1.0,,,Business Services,Technology Solutions,1.0,12.0,6.5,,,12.0
+Clever Devices,4.0,4.0,,,Business Services,Technology Solutions,4.0,4.0,4.0,,,1.0
+Galois,16.0,12.0,,,Business Services,Technology Solutions,12.0,16.0,14.0,,,1.3333333333333333
+Paya,5.0,7.0,,,Business Services,Technology Solutions,7.0,5.0,6.0,,,0.7142857142857143
+Pitney Bowes,8.0,0.0,,,Business Services,Technology Solutions,0.0,8.0,4.0,,,
+Sprinklr,14.0,0.0,,,Business Services,Technology Solutions,0.0,14.0,7.0,,,
+Taulia Inc.,16.0,8.0,,,Business Services,Technology Solutions,8.0,16.0,12.0,,,2.0
+Thoughtworks,12.0,0.0,,,Business Services,Technology Solutions,0.0,12.0,6.0,,,
+TodayTix,12.0,0.0,,,Business Services,Technology Solutions,0.0,12.0,6.0,,,
+Sysdig,13.0,0.0,,,Computer and Network Security,,0.0,13.0,6.5,,,
+Miro,12.0,,6.0,,Computer Software,,,9.0,9.0,6.0,,
+General Electric,12.0,0.0,,,Conglomerate,,0.0,12.0,6.0,,,
+Growmark,2.0,12.0,,,Conglomerate,,12.0,2.0,7.0,,,0.16666666666666666
+Koch Industries,6.0,6.0,,,Conglomerate,,6.0,6.0,6.0,,,1.0
+Newell Brands,12.0,3.0,,,Conglomerate,,3.0,12.0,7.5,,,4.0
+"Reliance Industries, Ltd",52.0,24.0,,,Conglomerate,,24.0,52.0,38.0,,,2.1666666666666665
+Siemens Industry Automation and Drive Technologies,9.5,0.0,,,Conglomerate,,0.0,9.5,4.75,,,
+Textron Inc.,2.0,0.0,,,Conglomerate,,0.0,2.0,1.0,,,
+Accenture,16.0,2.0,,,Consulting Services,,2.0,16.0,9.0,,,8.0
+Alvarez & Marsal,12.0,0.0,,,Consulting Services,,0.0,12.0,6.0,,,
+Arc Aspicio,6.0,13.0,,,Consulting Services,,13.0,6.0,9.5,,,0.46153846153846156
+Artemis Connection,10.0,29.0,,,Consulting Services,,29.0,10.0,19.5,,,0.3448275862068966
+AustinCSI,4.0,0.0,,,Consulting Services,,0.0,4.0,2.0,,,
+BSR (Business for Social Responsibility),5.0,2.0,,,Consulting Services,,2.0,5.0,3.5,,,2.5
+Capco,18.0,52.0,,,Consulting Services,,52.0,18.0,35.0,,,0.34615384615384615
+Capgemini,14.0,4.0,,,Consulting Services,,4.0,14.0,9.0,,,3.5
+Credera,6.0,0.0,,,Consulting Services,,0.0,6.0,3.0,,,
+Dalberg,26.0,26.0,,,Consulting Services,,26.0,26.0,26.0,,,1.0
+Dexis Consulting Group,5.0,0.0,,,Consulting Services,,0.0,5.0,2.5,,,
+FTI Consulting,16.0,12.0,,,Consulting Services,,12.0,16.0,14.0,,,1.3333333333333333
+GHD Group Pty Ltd,6.0,12.0,,,Consulting Services,,12.0,6.0,9.0,,,0.5
+Guidehouse,9.0,17.0,,,Consulting Services,,17.0,9.0,13.0,,,0.5294117647058824
+Heidrick & Struggles,16.0,12.0,,,Consulting Services,,12.0,16.0,14.0,,,1.3333333333333333
+Indigo Ag,12.0,0.0,,,Consulting Services,,0.0,12.0,6.0,,,
+Intentional Futures,8.0,6.0,,,Consulting Services,,6.0,8.0,7.0,,,1.3333333333333333
+Jasper Colin Research,24.0,18.0,,,Consulting Services,,18.0,24.0,21.0,,,1.3333333333333333
+Macro Consultants LLC,8.0,12.0,,,Consulting Services,,12.0,8.0,10.0,,,0.6666666666666666
+Mead & Hunt,16.0,10.0,,,Consulting Services,,10.0,16.0,13.0,,,1.6
+MSA Worldwide,8.0,0.0,,,Consulting Services,,0.0,8.0,4.0,,,
+MTX Group Inc,52.0,0.0,,,Consulting Services,,0.0,52.0,26.0,,,
+Navigant Consulting,6.0,6.0,,,Consulting Services,,6.0,6.0,6.0,,,1.0
+Novantas Inc.,6.0,0.0,,,Consulting Services,,0.0,6.0,3.0,,,
+NTT DATA Services,6.0,12.0,,,Consulting Services,,12.0,6.0,9.0,,,0.5
+O.C. Tanner,6.0,12.0,,,Consulting Services,,12.0,6.0,9.0,,,0.5
+OC&C Strategy Consultants,26.0,26.0,,,Consulting Services,,26.0,26.0,26.0,,,1.0
+Oliver Wyman,18.0,6.0,,,Consulting Services,,6.0,18.0,12.0,,,3.0
+"Perficient, Inc.",4.0,4.0,,,Consulting Services,,4.0,4.0,4.0,,,1.0
+PwC,16.0,4.0,,,Consulting Services,,4.0,16.0,10.0,,,4.0
+Resource Systems Group,4.0,12.0,,,Consulting Services,,12.0,4.0,8.0,,,0.3333333333333333
+Search Discovery,7.0,6.0,,,Consulting Services,,6.0,7.0,6.5,,,1.1666666666666667
+Stride Consulting,3.0,7.0,,,Consulting Services,,7.0,3.0,5.0,,,0.42857142857142855
+"TCG, Inc",3.0,16.0,,,Consulting Services,,16.0,3.0,9.5,,,0.1875
+True Group,6.0,12.0,,,Consulting Services,,12.0,6.0,9.0,,,0.5
+West Monroe,12.0,0.0,,,Consulting Services,,0.0,12.0,6.0,,,
+ZS,16.0,12.0,,,Consulting Services,,12.0,16.0,14.0,,,1.3333333333333333
+Anheuser-Busch InBev,26.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,26.0,13.0,,,
+Beam Suntory,26.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,26.0,13.0,,,
+Boston Beer Company,3.0,10.0,,,Consumer Packaged Goods,Beverages,10.0,3.0,6.5,,,0.3
+Molson Coors Brewing Company,14.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,14.0,7.0,,,
+Nestle Waters,14.0,10.0,,,Consumer Packaged Goods,Beverages,10.0,14.0,12.0,,,1.4
+PepsiCo,6.0,6.0,,,Consumer Packaged Goods,Beverages,6.0,6.0,6.0,,,1.0
+Pernod Ricard,12.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,12.0,6.0,,,
+Ranch Rider Spirits,10.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,10.0,5.0,,,
+The Coca-Cola Company,12.0,0.0,,,Consumer Packaged Goods,Beverages,0.0,12.0,6.0,,,
+Total Wine & More,8.0,,4.0,,Consumer Packaged Goods,Beverages,,6.0,6.0,4.0,,
+ Braum's Ice Cream & Dairy Store,3.0,1.0,,,Consumer Packaged Goods,Packaged Foods,1.0,3.0,2.0,,,3.0
+Ajinomoto,9.0,12.0,,,Consumer Packaged Goods,Packaged Foods,12.0,9.0,10.5,,,0.75
+Bimbo Bakeries USA,8.0,24.0,,,Consumer Packaged Goods,Packaged Foods,24.0,8.0,16.0,,,0.3333333333333333
+Campbell Soup Company,10.0,0.0,,,Consumer Packaged Goods,Packaged Foods,0.0,10.0,5.0,,,
+Frito-Lay,6.0,6.0,,,Consumer Packaged Goods,Packaged Foods,6.0,6.0,6.0,,,1.0
+Impossible Foods,12.0,17.0,,,Consumer Packaged Goods,Packaged Foods,17.0,12.0,14.5,,,0.7058823529411765
+Lindt & SprŸngli,6.0,6.0,,,Consumer Packaged Goods,Packaged Foods,6.0,6.0,6.0,,,1.0
+Nestle,14.0,26.0,,,Consumer Packaged Goods,Packaged Foods,26.0,14.0,20.0,,,0.5384615384615384
+R. M. Palmer Company,6.0,18.0,,,Consumer Packaged Goods,Packaged Foods,18.0,6.0,12.0,,,0.3333333333333333
+Taylor Company,26.0,0.0,,,Consumer Packaged Goods,Packaged Foods,0.0,26.0,13.0,,,
+The Coffee Bean & Tea Leaf,6.0,0.0,,,Consumer Packaged Goods,Packaged Foods,0.0,6.0,3.0,,,
+"The Dannon Company, Inc.",20.0,0.0,,,Consumer Packaged Goods,Packaged Foods,0.0,20.0,10.0,,,
+The J.M. Smucker Company,8.0,0.0,,,Consumer Packaged Goods,Packaged Foods,0.0,8.0,4.0,,,
+WellPet LLC,12.0,12.0,,,Consumer Packaged Goods,Packaged Foods,12.0,12.0,12.0,,,1.0
+Colgate-Palmolive Company,19.5,6.0,,,Consumer Packaged Goods,Packaged Products,6.0,19.5,12.75,,,3.25
+Elanco Animal Health,12.0,12.0,,,Consumer Packaged Goods,Packaged Products,12.0,12.0,12.0,,,1.0
+Henkel,8.0,3.0,,,Consumer Packaged Goods,Packaged Products,3.0,8.0,5.5,,,2.6666666666666665
+Nestle Purina PetCare Company,8.5,0.0,,,Consumer Packaged Goods,Packaged Products,0.0,8.5,4.25,,,
+Procter & Gamble,12.0,2.0,,,Consumer Packaged Goods,Packaged Products,2.0,12.0,7.0,,,6.0
+The Scotts Miracle-Gro Company,10.0,0.0,,,Consumer Packaged Goods,Packaged Products,0.0,10.0,5.0,,,
+"Altria Group, Inc.",6.0,0.0,,,Consumer Packaged Goods,Tobacco,0.0,6.0,3.0,,,
+Reynolds American Inc.,16.0,,16.0,,Consumer Packaged Goods,Tobacco,,16.0,16.0,0.0,,
+Munchkin,6.0,0.0,,,Consumer Packaged Goods,Toys and Baby Products,0.0,6.0,3.0,,,
+Aesop,12.0,,6.0,,Cosmetics,,,9.0,9.0,6.0,,
+Benefit Cosmetics LLC,12.0,4.0,,,Cosmetics,,4.0,12.0,8.0,,,3.0
+Curology,12.0,12.0,,,Cosmetics,,12.0,12.0,12.0,,,1.0
+Edge Systems LLC,12.0,0.0,,,Cosmetics,,0.0,12.0,6.0,,,
+Estee Lauder Companies,24.0,0.0,,,Cosmetics,,0.0,24.0,12.0,,,
+Mac Cosmetics,12.0,8.0,,,Cosmetics,,8.0,12.0,10.0,,,1.5
+Revlon,12.0,12.0,,,Cosmetics,,12.0,12.0,12.0,,,1.0
+BAE Systems,2.0,12.0,,,Defense and Space,,12.0,2.0,7.0,,,0.16666666666666666
+L3Harris,5.0,3.0,,,Defense and Space,,3.0,5.0,4.0,,,1.6666666666666667
+Sierra Nevada Corperation,5.0,8.0,,,Defense and Space,,8.0,5.0,6.5,,,0.625
+Textron Systems,2.0,0.0,,,Defense and Space,,0.0,2.0,1.0,,,
+10up,4.0,12.0,,,Design,,12.0,4.0,8.0,,,0.3333333333333333
+Kettle,12.0,12.0,,,Design,,12.0,12.0,12.0,,,1.0
+Reaktor,16.0,8.0,,,Design,,8.0,16.0,12.0,,,2.0
+Bard College,8.0,6.0,,,Educational Services,College and Universities,6.0,8.0,7.0,,,1.3333333333333333
+Bryant University,0.0,6.0,,,Educational Services,College and Universities,6.0,0.0,3.0,,,0.0
+California State University,4.0,12.0,,,Educational Services,College and Universities,12.0,4.0,8.0,,,0.3333333333333333
+Capella University,12.0,4.0,,,Educational Services,College and Universities,4.0,12.0,8.0,,,3.0
+Case Western Reserve University,7.0,0.0,,,Educational Services,College and Universities,0.0,7.0,3.5,,,
+Colorado State University,3.0,9.0,,,Educational Services,College and Universities,9.0,3.0,6.0,,,0.3333333333333333
+Columbia University,6.0,12.0,,,Educational Services,College and Universities,12.0,6.0,9.0,,,0.5
+Columbia University Information Technology,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+Dartmouth College,2.0,8.0,,,Educational Services,College and Universities,8.0,2.0,5.0,,,0.25
+Dickinson College,12.0,,6.0,,Educational Services,College and Universities,,9.0,9.0,6.0,,
+Duke University,6.0,9.0,,,Educational Services,College and Universities,9.0,6.0,7.5,,,0.6666666666666666
+Ferris State University,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+Florida International University,6.0,12.0,,,Educational Services,College and Universities,12.0,6.0,9.0,,,0.5
+Georgetown University,8.0,0.0,,,Educational Services,College and Universities,0.0,8.0,4.0,,,
+Griffith University,26.0,26.0,,,Educational Services,College and Universities,26.0,26.0,26.0,,,1.0
+Harvard Business School,16.0,7.0,,,Educational Services,College and Universities,7.0,16.0,11.5,,,2.2857142857142856
+Harvard University,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+Imperial College London,18.0,20.0,,,Educational Services,College and Universities,20.0,18.0,19.0,,,0.9
+Indiana University,6.0,12.0,,,Educational Services,College and Universities,12.0,6.0,9.0,,,0.5
+IUPUI,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+Johns Hopkins University,10.0,12.0,,,Educational Services,College and Universities,12.0,10.0,11.0,,,0.8333333333333334
+Johns Hopkins University Applied Physics Laboratory,2.0,26.0,,,Educational Services,College and Universities,26.0,2.0,14.0,,,0.07692307692307693
+Lasell College,12.0,0.0,,,Educational Services,College and Universities,0.0,12.0,6.0,,,
+Marquette University,8.0,0.0,,,Educational Services,College and Universities,0.0,8.0,4.0,,,
+Medical University of South Carolina,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+New York University,12.0,0.0,,,Educational Services,College and Universities,0.0,12.0,6.0,,,
+Northeastern University,8.0,4.0,,,Educational Services,College and Universities,4.0,8.0,6.0,,,2.0
+Northwestern University,9.0,6.0,,,Educational Services,College and Universities,6.0,9.0,7.5,,,1.5
+NYU School of Medicine,5.0,24.0,,,Educational Services,College and Universities,24.0,5.0,14.5,,,0.20833333333333334
+Rutgers University,6.0,12.0,,,Educational Services,College and Universities,12.0,6.0,9.0,,,0.5
+The George Washington University,6.0,2.0,,,Educational Services,College and Universities,2.0,6.0,4.0,,,3.0
+The Ohio State University,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+Tufts University,12.0,4.0,,,Educational Services,College and Universities,4.0,12.0,8.0,,,3.0
+UCLA,13.0,9.0,,,Educational Services,College and Universities,9.0,13.0,11.0,,,1.4444444444444444
+University at Buffalo,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+University of Arizona,6.0,3.0,,,Educational Services,College and Universities,3.0,6.0,4.5,,,2.0
+University of British Columbia,52.0,0.0,,,Educational Services,College and Universities,0.0,52.0,26.0,,,
+University of California Berkeley,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+University of Massachusetts Amherst,12.0,24.0,,,Educational Services,College and Universities,24.0,12.0,18.0,,,0.5
+University of Michigan,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+University of New Hampshire,12.0,0.0,,,Educational Services,College and Universities,0.0,12.0,6.0,,,
+University of Notre Dame,12.0,12.0,,,Educational Services,College and Universities,12.0,12.0,12.0,,,1.0
+University of Tampa,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+Utah State University,4.0,,0.0,,Educational Services,College and Universities,,2.0,2.0,4.0,,
+Virgina Commonwealth University,4.0,4.0,,,Educational Services,College and Universities,4.0,4.0,4.0,,,1.0
+Webster University,6.0,6.0,,,Educational Services,College and Universities,6.0,6.0,6.0,,,1.0
+Wheaton College,4.0,0.0,,,Educational Services,College and Universities,0.0,4.0,2.0,,,
+360DigiTMG,2.0,4.0,,,Educational Services,E-Learning,4.0,2.0,3.0,,,0.5
+Chegg,10.0,12.0,,,Educational Services,E-Learning,12.0,10.0,11.0,,,0.8333333333333334
+Clever,12.0,0.0,,,Educational Services,E-Learning,0.0,12.0,6.0,,,
+Degreed,32.0,46.0,,,Educational Services,E-Learning,46.0,32.0,39.0,,,0.6956521739130435
+Imagine Learning,6.0,0.0,,,Educational Services,E-Learning,0.0,6.0,3.0,,,
+Pluralsight,6.0,0.0,,,Educational Services,E-Learning,0.0,6.0,3.0,,,
+Renaissance Learning,9.0,6.0,,,Educational Services,E-Learning,6.0,9.0,7.5,,,1.5
+Skillcrush,8.0,8.0,,,Educational Services,E-Learning,8.0,8.0,8.0,,,1.0
+Soomo Learning,12.0,0.0,,,Educational Services,E-Learning,0.0,12.0,6.0,,,
+Zearn,12.0,4.0,,,Educational Services,E-Learning,4.0,12.0,8.0,,,3.0
+CIEE,12.0,12.0,,,Educational Services,Management,12.0,12.0,12.0,,,1.0
+General Assembly,16.0,4.0,,,Educational Services,Management,4.0,16.0,10.0,,,4.0
+NWEA,8.0,52.0,,,Educational Services,Management,52.0,8.0,30.0,,,0.15384615384615385
+Prince William County Public Schools,12.0,12.0,,,Educational Services,Management,12.0,12.0,12.0,,,1.0
+Santa Fe Public Schools,4.0,36.0,,,Educational Services,Management,36.0,4.0,20.0,,,0.1111111111111111
+Teachstone,2.0,12.0,,,Educational Services,Management,12.0,2.0,7.0,,,0.16666666666666666
+The College Board,8.0,8.0,,,Educational Services,Management,8.0,8.0,8.0,,,1.0
+"ACT, Inc",6.0,0.0,,,Educational Services,Other,0.0,6.0,3.0,,,
+British Council,26.0,0.0,,,Educational Services,Other,0.0,26.0,13.0,,,
+Pearson,8.5,8.0,,,Educational Services,Other,8.0,8.5,8.25,,,1.0625
+Savvas Learning Company,3.0,12.0,,,Educational Services,Other,12.0,3.0,7.5,,,0.25
+Texas A&M AgriLife Research,26.0,0.0,,,Educational Services,Other,0.0,26.0,13.0,,,
+The Concord Consortium,8.0,0.0,,,Educational Services,Other,0.0,8.0,4.0,,,
+KinderCare Learning Companies,6.0,0.0,,,Educational Services,Preschool,0.0,6.0,3.0,,,
+Aperian Global,4.0,12.0,,,Educational Services,Professional Training,12.0,4.0,8.0,,,0.3333333333333333
+Achievement First,42.0,14.0,,,Educational Services,School,14.0,42.0,28.0,,,3.0
+Cobb County School District,6.0,12.0,,,Educational Services,School,12.0,6.0,9.0,,,0.5
+Curtis Institute of Music,12.0,,12.0,,Educational Services,School,,12.0,12.0,0.0,,
+Henderson Collegiate,9.0,3.0,,,Educational Services,School,3.0,9.0,6.0,,,3.0
+Humble Independent School District,12.0,0.0,,,Educational Services,School,0.0,12.0,6.0,,,
+IDEA Public Schools,6.0,6.0,,,Educational Services,School,6.0,6.0,6.0,,,1.0
+Long Trail School,6.0,0.0,,,Educational Services,School,0.0,6.0,3.0,,,
+San Francisco Unified School District,6.0,0.0,,,Educational Services,School,0.0,6.0,3.0,,,
+The Meadowbrook School of Weston,12.0,0.0,,,Educational Services,School,0.0,12.0,6.0,,,
+Creative Education Services,16.0,0.0,,,Educational Services,Tutoring,0.0,16.0,8.0,,,
+Armada Technologies,2.0,10.0,,,Electronics,Manufacturing,10.0,2.0,6.0,,,0.2
+Bose,12.0,12.0,,,Electronics,Manufacturing,12.0,12.0,12.0,,,1.0
+Harman International Industries,12.0,0.0,,,Electronics,Manufacturing,0.0,12.0,6.0,,,
+iRobot,15.0,0.0,,,Electronics,Manufacturing,0.0,15.0,7.5,,,
+Keysight Technologies,8.0,52.0,,,Electronics,Manufacturing,52.0,8.0,30.0,,,0.15384615384615385
+Legrand,12.0,2.0,,,Electronics,Manufacturing,2.0,12.0,7.0,,,6.0
+Maxim Integrated Products,8.0,12.0,,,Electronics,Manufacturing,12.0,8.0,10.0,,,0.6666666666666666
+Philips,8.0,4.0,,,Electronics,Manufacturing,4.0,8.0,6.0,,,2.0
+Radar,12.0,0.0,,,Electronics,Manufacturing,0.0,12.0,6.0,,,
+Sanmina,6.0,6.0,,,Electronics,Manufacturing,6.0,6.0,6.0,,,1.0
+Trane Technologies,11.0,0.0,,,Electronics,Manufacturing,0.0,11.0,5.5,,,
+Reprise,12.0,0.0,,,Engineering,,0.0,12.0,6.0,,,
+Barclays,16.0,8.0,,,Finance,,8.0,16.0,12.0,,,2.0
+Progressive Leasing,12.0,0.0,,,Finance,,0.0,12.0,6.0,,,
+Acorns,12.0,2.0,,,Finance,Asset Management,2.0,12.0,7.0,,,6.0
+AllianceBernstein LP,12.0,0.0,,,Finance,Asset Management,0.0,12.0,6.0,,,
+American Century Investments,6.0,0.0,,,Finance,Asset Management,0.0,6.0,3.0,,,
+American Endowment Foundation,0.0,12.0,,,Finance,Asset Management,12.0,0.0,6.0,,,0.0
+BNY Mellon,16.0,8.0,,,Finance,Asset Management,8.0,16.0,12.0,,,2.0
+Bridgewater Associates,11.0,29.0,,,Finance,Asset Management,29.0,11.0,20.0,,,0.3793103448275862
+"Cantella & Co., Inc.",8.0,0.0,,,Finance,Asset Management,0.0,8.0,4.0,,,
+Citadel,12.0,0.0,,,Finance,Asset Management,0.0,12.0,6.0,,,
+Coller Capital Ltd.,6.0,12.0,,,Finance,Asset Management,12.0,6.0,9.0,,,0.5
+DWS,16.0,52.0,,,Finance,Asset Management,52.0,16.0,34.0,,,0.3076923076923077
+Fisher Investments,8.0,8.0,,,Finance,Asset Management,8.0,8.0,8.0,,,1.0
+Gemini Trust Company,18.0,0.0,,,Finance,Asset Management,0.0,18.0,9.0,,,
+Golub Capital,3.0,0.0,,,Finance,Asset Management,0.0,3.0,1.5,,,
+Invesco,12.0,3.0,,,Finance,Asset Management,3.0,12.0,7.5,,,4.0
+North Star Resource Group,6.0,6.0,,,Finance,Asset Management,6.0,6.0,6.0,,,1.0
+The StepStone Group LP,16.0,4.0,,,Finance,Asset Management,4.0,16.0,10.0,,,4.0
+TIAA,16.0,0.0,,,Finance,Asset Management,0.0,16.0,8.0,,,
+TPG Capital,16.0,0.0,,,Finance,Asset Management,0.0,16.0,8.0,,,
+Trinity Lifetime,39.0,13.0,,,Finance,Asset Management,13.0,39.0,26.0,,,3.0
+Vanguard Group,10.0,0.0,,,Finance,Asset Management,0.0,10.0,5.0,,,
+American Express,20.0,0.0,,,Finance,Credit and Fund Services,0.0,20.0,10.0,,,
+American Honda Finance Corp,12.0,5.0,,,Finance,Credit and Fund Services,5.0,12.0,8.5,,,2.4
+Navy Federal Credit Union,16.0,0.0,,,Finance,Credit Unions,0.0,16.0,8.0,,,
+Achieve,4.0,8.0,,,Finance,Diversified,8.0,4.0,6.0,,,0.5
+Andrew Davidson & Co,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+ASB Bank,26.0,26.0,,,Finance,Diversified,26.0,26.0,26.0,,,1.0
+Bank of America,16.0,4.0,,,Finance,Diversified,4.0,16.0,10.0,,,4.0
+BB&T Corporation,6.0,2.0,,,Finance,Diversified,2.0,6.0,4.0,,,3.0
+BBVA,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+BNP Paribas,16.0,0.0,,,Finance,Diversified,0.0,16.0,8.0,,,
+Capital One,18.0,0.0,,,Finance,Diversified,0.0,18.0,9.0,,,
+CAPTRUST,2.0,14.0,,,Finance,Diversified,14.0,2.0,8.0,,,0.14285714285714285
+CME Group,12.0,,4.0,,Finance,Diversified,,8.0,8.0,8.0,,
+Computershare,7.0,3.5,,,Finance,Diversified,3.5,7.0,5.25,,,2.0
+Credit Suisse,20.0,2.0,,,Finance,Diversified,2.0,20.0,11.0,,,10.0
+Digistream Investigations,12.0,12.0,,,Finance,Diversified,12.0,12.0,12.0,,,1.0
+Edward Jones,16.0,3.0,,,Finance,Diversified,3.0,16.0,9.5,,,5.333333333333333
+Fidelity Investments,15.0,4.0,,,Finance,Diversified,4.0,15.0,9.5,,,3.75
+First Citizens Bank,4.0,6.0,,,Finance,Diversified,6.0,4.0,5.0,,,0.6666666666666666
+Geller & Company,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+HSBC,19.0,0.0,,,Finance,Diversified,0.0,19.0,9.5,,,
+JMP Group LLC,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+JPMorgan Chase,12.5,0.0,,,Finance,Diversified,0.0,12.5,6.25,,,
+Kasasa by BancVue,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+Lincoln Financial Group,10.0,12.0,,,Finance,Diversified,12.0,10.0,11.0,,,0.8333333333333334
+Marsh McLennan,8.5,8.5,,,Finance,Diversified,8.5,8.5,8.5,,,1.0
+Morgan Stanley,16.0,0.0,,,Finance,Diversified,0.0,16.0,8.0,,,
+Nomura,16.0,,2.0,,Finance,Diversified,,9.0,9.0,14.0,,
+Scotiabank,14.0,3.0,,,Finance,Diversified,3.0,14.0,8.5,,,4.666666666666667
+Securian Financial Group Inc.,12.0,0.0,,,Finance,Diversified,0.0,12.0,6.0,,,
+Standard Chartered,20.0,,2.0,,Finance,Diversified,,11.0,11.0,18.0,,
+State Street Corporation,8.0,2.0,,,Finance,Diversified,2.0,8.0,5.0,,,4.0
+Stifel Nicolaus & Co.,16.0,,8.0,,Finance,Diversified,,12.0,12.0,8.0,,
+USAA,12.0,2.0,,,Finance,Diversified,2.0,12.0,7.0,,,6.0
+Northwestern Mutual Ð Corporate Careers,12.0,1.0,,,Finance,Life,1.0,12.0,6.5,,,12.0
+Better Mortgage,16.5,13.0,,,Finance,Loans,13.0,16.5,14.75,,,1.2692307692307692
+OneMain Financial,8.0,0.0,,,Finance,Loans,0.0,8.0,4.0,,,
+Quicken Loans Inc.,6.0,1.5,,,Finance,Loans,1.5,6.0,3.75,,,4.0
+Veterans United Home Loans,8.0,0.0,,,Finance,Loans,0.0,8.0,4.0,,,
+ANZ,12.0,52.0,,,Finance,Personal and Commercial Banking,52.0,12.0,32.0,,,0.23076923076923078
+Bank of the West,16.0,12.0,,,Finance,Personal and Commercial Banking,12.0,16.0,14.0,,,1.3333333333333333
+BMO Harris Bank,12.0,12.0,,,Finance,Personal and Commercial Banking,12.0,12.0,12.0,,,1.0
+CIT,20.0,8.0,,,Finance,Personal and Commercial Banking,8.0,20.0,14.0,,,2.5
+Citizens Bank,12.0,0.0,,,Finance,Personal and Commercial Banking,0.0,12.0,6.0,,,
+Commonwealth Bank of Australia,12.0,52.0,,,Finance,Personal and Commercial Banking,52.0,12.0,32.0,,,0.23076923076923078
+Federal Home Loan Bank Of New York,12.0,0.0,,,Finance,Personal and Commercial Banking,0.0,12.0,6.0,,,
+Fifth Third Bank,9.0,6.0,,,Finance,Personal and Commercial Banking,6.0,9.0,7.5,,,1.5
+First Republic Bank,12.0,0.0,,,Finance,Personal and Commercial Banking,0.0,12.0,6.0,,,
+Huntington Bank,4.0,8.0,,,Finance,Personal and Commercial Banking,8.0,4.0,6.0,,,0.5
+KeyBank,12.0,6.0,,,Finance,Personal and Commercial Banking,6.0,12.0,9.0,,,2.0
+M&T Bank Corporation,12.0,12.0,,,Finance,Personal and Commercial Banking,12.0,12.0,12.0,,,1.0
+Santander US,6.0,6.0,,,Finance,Personal and Commercial Banking,6.0,6.0,6.0,,,1.0
+SociŽtŽ GŽnŽrale,12.0,0.0,,,Finance,Personal and Commercial Banking,0.0,12.0,6.0,,,
+Stanbic IBTC Bank,12.0,4.0,,,Finance,Personal and Commercial Banking,4.0,12.0,8.0,,,3.0
+SunTrust Banks,16.0,4.0,,,Finance,Personal and Commercial Banking,4.0,16.0,10.0,,,4.0
+U.S. Bank,13.0,0.0,,,Finance,Personal and Commercial Banking,0.0,13.0,6.5,,,
+Union Bank,21.0,8.0,,,Finance,Personal and Commercial Banking,8.0,21.0,14.5,,,2.625
+Vanquis Bank,20.0,26.0,,,Finance,Personal and Commercial Banking,26.0,20.0,23.0,,,0.7692307692307693
+Wintrust Financial Corporation,10.0,2.0,,,Finance,Personal and Commercial Banking,2.0,10.0,6.0,,,5.0
+"Adams Street Partners, LLC",12.0,2.0,,,Finance,Venture Capital,2.0,12.0,7.0,,,6.0
+"Guggenheim Partners, LLC",18.0,,18.0,,Finance,Venture Capital,,18.0,18.0,0.0,,
+City of Virginia Beach,6.0,0.0,,,Government,City,0.0,6.0,3.0,,,
+New York City,12.0,4.0,,,Government,City,4.0,12.0,8.0,,,3.0
+New York City Economic Development Corporation,6.0,1.0,,,Government,City,1.0,6.0,3.5,,,6.0
+The City of Portland,6.0,6.0,,,Government,City,6.0,6.0,6.0,,,1.0
+The City of San Antonio,6.0,6.0,,,Government,City,6.0,6.0,6.0,,,1.0
+Peraton,1.5,12.0,,,Government,Contractor,12.0,1.5,6.75,,,0.125
+Marion County Sheriff's Office,13.0,20.0,,,Government,County,20.0,13.0,16.5,,,0.65
+"Multnomah County, Oregon",12.0,0.0,,,Government,County,0.0,12.0,6.0,,,
+Spokane County,52.0,26.0,,,Government,County,26.0,52.0,39.0,,,2.0
+Corporation for National and Community Service,0.0,0.0,,,Government,Federal,0.0,0.0,0.0,,,
+Federal Deposit Insurance Corporation,12.0,12.0,,,Government,Federal,12.0,12.0,12.0,,,1.0
+Federal Public Defender,12.0,0.0,,,Government,Federal,0.0,12.0,6.0,,,
+Federal Reserve Bank of New York,8.0,8.0,,,Government,Federal,8.0,8.0,8.0,,,1.0
+Los Alamos National Laboratory,3.0,12.0,,,Government,Federal,12.0,3.0,7.5,,,0.25
+NASA Jet Propulsion Laboratory,12.0,0.0,,,Government,Federal,0.0,12.0,6.0,,,
+Naval Medical Center Portsmouth,46.0,0.0,,,Government,Federal,0.0,46.0,23.0,,,
+NavSea,11.0,6.0,,,Government,Federal,6.0,11.0,8.5,,,1.8333333333333333
+NSA,8.0,6.5,,,Government,Federal,6.5,8.0,7.25,,,1.2307692307692308
+The United States Air Force,12.0,0.0,,,Government,Federal,0.0,12.0,6.0,,,
+U.S. Department of Education,0.0,12.0,,,Government,Federal,12.0,0.0,6.0,,,0.0
+U.S. Department of Veterans Affairs,11.0,11.0,,,Government,Federal,11.0,11.0,11.0,,,1.0
+U.S. Social Security Administration,6.0,12.0,,,Government,Federal,12.0,6.0,9.0,,,0.5
+United States Army,6.0,0.0,,,Government,Federal,0.0,6.0,3.0,,,
+United States Department of State,9.0,15.0,,,Government,Federal,15.0,9.0,12.0,,,0.6
+United States Trade and Development Agency,12.0,0.0,,,Government,Federal,0.0,12.0,6.0,,,
+USAID,6.0,0.0,,,Government,Federal,0.0,6.0,3.0,,,
+United Nations,4.0,0.0,,,Government,International,0.0,4.0,2.0,,,
+World Health Organization,24.0,52.0,,,Government,International,52.0,24.0,38.0,,,0.46153846153846156
+Commonwealth of Massachusetts,2.0,24.0,,,Government,State,24.0,2.0,13.0,,,0.08333333333333333
+DBPR,12.0,0.0,,,Government,State,0.0,12.0,6.0,,,
+State of North Carolina,12.0,0.0,,,Government,State,0.0,12.0,6.0,,,
+Companion Animal Hospital Partners,6.0,6.0,,,Healthcare,Animal Health,6.0,6.0,6.0,,,1.0
+Veterinary Emergency Group,6.0,6.0,,,Healthcare,Animal Health,6.0,6.0,6.0,,,1.0
+Zoetis,2.0,0.0,,,Healthcare,Animal Health,0.0,2.0,1.0,,,
+Beacon Health Options,4.0,6.0,,,Healthcare,Behavioral,6.0,4.0,5.0,,,0.6666666666666666
+Ambry Genetics,6.0,0.0,,,Healthcare,Biotechnology,0.0,6.0,3.0,,,
+Biogen,12.0,6.0,,,Healthcare,Biotechnology,6.0,12.0,9.0,,,2.0
+bioMerieux,12.0,0.0,,,Healthcare,Biotechnology,0.0,12.0,6.0,,,
+Bolt Threads,12.0,0.0,,,Healthcare,Biotechnology,0.0,12.0,6.0,,,
+Charles River Laboratories,9.0,3.0,,,Healthcare,Biotechnology,3.0,9.0,6.0,,,3.0
+Genentech,12.0,0.0,,,Healthcare,Biotechnology,0.0,12.0,6.0,,,
+"Gilead Sciences, Inc.",12.0,6.0,,,Healthcare,Biotechnology,6.0,12.0,9.0,,,2.0
+Idexx Laboratories,12.0,8.0,,,Healthcare,Biotechnology,8.0,12.0,10.0,,,1.5
+NanoString Technologies,12.0,0.0,,,Healthcare,Biotechnology,0.0,12.0,6.0,,,
+Nova Biomedical,6.0,6.0,,,Healthcare,Biotechnology,6.0,6.0,6.0,,,1.0
+Novozymes,17.0,0.0,,,Healthcare,Biotechnology,0.0,17.0,8.5,,,
+Promega Corporation,4.0,0.0,,,Healthcare,Biotechnology,0.0,4.0,2.0,,,
+SCIEX,15.0,26.0,,,Healthcare,Biotechnology,26.0,15.0,20.5,,,0.5769230769230769
+Bupa,14.0,36.0,,,Healthcare,Diversified,36.0,14.0,25.0,,,0.3888888888888889
+Call9,8.0,4.0,,,Healthcare,Diversified,4.0,8.0,6.0,,,2.0
+Saint Francis Medical Center,6.0,0.0,,,Healthcare,Diversified,0.0,6.0,3.0,,,
+BAYADA,0.0,,0.0,,Healthcare,Family Care,,0.0,0.0,0.0,,
+Inspire Wellness,12.0,6.0,,,Healthcare,Family Care,6.0,12.0,9.0,,,2.0
+Landmark Health,4.0,8.0,,,Healthcare,Family Care,8.0,4.0,6.0,,,0.5
+Southwest Idaho Treatment Center,12.0,0.0,,,Healthcare,Family Care,0.0,12.0,6.0,,,
+Ascension Health,8.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,8.0,4.0,,,
+Baptist Health System,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Bon Secours Mercy Health,8.0,8.0,,,Healthcare,Hospitals and Clinics,8.0,8.0,8.0,,,1.0
+Central Maine Medical Center,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Children's Hospital of Pittsburgh of UPMC,2.0,10.0,,,Healthcare,Hospitals and Clinics,10.0,2.0,6.0,,,0.2
+Children's Wisconsin,0.0,12.0,,,Healthcare,Hospitals and Clinics,12.0,0.0,6.0,,,0.0
+Christiana Care Health System,6.0,6.0,,,Healthcare,Hospitals and Clinics,6.0,6.0,6.0,,,1.0
+Cincinnati Children's Hospital Medical Center,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Duke Health,6.0,6.0,,,Healthcare,Hospitals and Clinics,6.0,6.0,6.0,,,1.0
+Everett Clinic,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Houston Methodist Hospital,6.0,6.0,,,Healthcare,Hospitals and Clinics,6.0,6.0,6.0,,,1.0
+Johns Hopkins All Children's Hospital,8.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,8.0,4.0,,,
+Lovelace Health System,0.0,6.0,,,Healthcare,Hospitals and Clinics,6.0,0.0,3.0,,,0.0
+Mercy,4.0,1.0,,,Healthcare,Hospitals and Clinics,1.0,4.0,2.5,,,4.0
+MetroHealth Medical Center,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Michigan Medicine,6.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,6.0,3.0,,,
+Molina Healthcare,6.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,6.0,3.0,,,
+Montefiore Medical Center,0.0,,0.0,,Healthcare,Hospitals and Clinics,,0.0,0.0,0.0,,
+Moses Cone,0.0,,,0.0,Healthcare,Hospitals and Clinics,0.0,0.0,0.0,,,
+New Century Health,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+New York State Psychiatric Institute,12.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,12.0,6.0,,,
+Northwell Health,0.0,12.0,,,Healthcare,Hospitals and Clinics,12.0,0.0,6.0,,,0.0
+NYU Langone Health,9.5,6.0,,,Healthcare,Hospitals and Clinics,6.0,9.5,7.75,,,1.5833333333333333
+Partners Healthcare,8.0,4.0,,,Healthcare,Hospitals and Clinics,4.0,8.0,6.0,,,2.0
+Penn Medicine,6.0,6.0,,,Healthcare,Hospitals and Clinics,6.0,6.0,6.0,,,1.0
+Providence,8.0,12.0,,,Healthcare,Hospitals and Clinics,12.0,8.0,10.0,,,0.6666666666666666
+Temple University Hospital,0.0,12.0,,,Healthcare,Hospitals and Clinics,12.0,0.0,6.0,,,0.0
+Texas Children's Hospital,0.0,0.0,,,Healthcare,Hospitals and Clinics,0.0,0.0,0.0,,,
+LabCorp,6.0,12.0,,,Healthcare,Laboratory Testing,12.0,6.0,9.0,,,0.5
+Aeroflow Healthcare,6.0,4.0,,,Healthcare,Medical Devices,4.0,6.0,5.0,,,1.5
+Aquilant,39.0,13.0,,,Healthcare,Medical Devices,13.0,39.0,26.0,,,3.0
+BD,12.0,4.0,,,Healthcare,Medical Devices,4.0,12.0,8.0,,,3.0
+Boston Scientific,12.0,0.0,,,Healthcare,Medical Devices,0.0,12.0,6.0,,,
+Cook Medical,10.0,6.0,,,Healthcare,Medical Devices,6.0,10.0,8.0,,,1.6666666666666667
+Hillrom,12.0,4.0,,,Healthcare,Medical Devices,4.0,12.0,8.0,,,3.0
+Integra LifeSciences,10.0,12.0,,,Healthcare,Medical Devices,12.0,10.0,11.0,,,0.8333333333333334
+Intuitive,6.0,6.0,,,Healthcare,Medical Devices,6.0,6.0,6.0,,,1.0
+Medela,12.0,0.0,,,Healthcare,Medical Devices,0.0,12.0,6.0,,,
+MicroPort Orthopedics,6.0,10.0,,,Healthcare,Medical Devices,10.0,6.0,8.0,,,0.6
+Olympus Corporation,4.0,1.0,,,Healthcare,Medical Devices,1.0,4.0,2.5,,,4.0
+ResMed,14.0,0.0,,,Healthcare,Medical Devices,0.0,14.0,7.0,,,
+Stryker Corporation,12.0,2.0,,,Healthcare,Medical Devices,2.0,12.0,7.0,,,6.0
+Terumo BCT,9.0,18.0,,,Healthcare,Medical Devices,18.0,9.0,13.5,,,0.5
+J&J MedTech,8.0,0.0,,,Healthcare,Products,0.0,8.0,4.0,,,
+SmileDirectClub,8.0,4.0,,,Healthcare,Products,4.0,8.0,6.0,,,2.0
+Be The Match,6.0,6.0,,,Healthcare,Services,6.0,6.0,6.0,,,1.0
+Cardinal Health,4.0,9.0,,,Healthcare,Services,9.0,4.0,6.5,,,0.4444444444444444
+GE Healthcare Systems,12.0,4.0,,,Healthcare,Services,4.0,12.0,8.0,,,3.0
+Heartland Dental,6.0,12.0,,,Healthcare,Services,12.0,6.0,9.0,,,0.5
+Lumeris,6.0,0.0,,,Healthcare,Services,0.0,6.0,3.0,,,
+McKesson Specialty Health,12.0,4.0,,,Healthcare,Services,4.0,12.0,8.0,,,3.0
+Optum,8.0,3.0,,,Healthcare,Services,3.0,8.0,5.5,,,2.6666666666666665
+Spectra,12.0,12.0,,,Hospitality,,12.0,12.0,12.0,,,1.0
+Gordon Food Service,1.0,0.0,,,Hospitality,Foodservice Distributors,0.0,1.0,0.5,,,
+Hilton,12.0,6.0,,,Hospitality,Hotels,6.0,12.0,9.0,,,2.0
+Hyatt,8.0,0.0,,,Hospitality,Hotels,0.0,8.0,4.0,,,
+Rosewood Hotels & Resorts,2.0,0.0,,,Hospitality,Hotels,0.0,2.0,1.0,,,
+Taj Hotels,12.0,26.0,,,Hospitality,Hotels,26.0,12.0,19.0,,,0.46153846153846156
+Blue Apron,12.0,0.0,,,Hospitality,Meal Kit Delivery,0.0,12.0,6.0,,,
+Disneyland,8.0,0.0,,,Hospitality,Resorts,0.0,8.0,4.0,,,
+Great Wolf Resorts,8.0,0.0,,,Hospitality,Resorts,0.0,8.0,4.0,,,
+Hilton Grand Vacations,8.0,8.0,,,Hospitality,Resorts,8.0,8.0,8.0,,,1.0
+Vail Resorts,4.0,2.0,,,Hospitality,Resorts,2.0,4.0,3.0,,,2.0
+Chick-fil-A,6.0,,2.0,,Hospitality,Restaurants,,4.0,4.0,4.0,,
+Chipotle Mexican Grill,12.0,0.0,,,Hospitality,Restaurants,0.0,12.0,6.0,,,
+Gate Gourmet,6.0,12.0,,,Hospitality,Restaurants,12.0,6.0,9.0,,,0.5
+La Colombe Torrefaction,6.0,30.0,,,Hospitality,Restaurants,30.0,6.0,18.0,,,0.2
+Momofuku,4.0,8.0,,,Hospitality,Restaurants,8.0,4.0,6.0,,,0.5
+Red Robin,0.0,12.0,,,Hospitality,Restaurants,12.0,0.0,6.0,,,0.0
+Restaurant Brands International,16.0,0.0,,,Hospitality,Restaurants,0.0,16.0,8.0,,,
+Texas Roadhouse,6.0,11.0,,,Hospitality,Restaurants,11.0,6.0,8.5,,,0.5454545454545454
+Ergotron,12.0,6.0,,,Industrial,Appliances and Furniture,6.0,12.0,9.0,,,2.0
+Stanley Black & Decker,2.0,16.0,,,Industrial,Appliances and Furniture,16.0,2.0,9.0,,,0.125
+Steelcase,10.5,27.5,,,Industrial,Appliances and Furniture,27.5,10.5,19.0,,,0.38181818181818183
+Whirlpool Corporation,12.0,4.0,,,Industrial,Appliances and Furniture,4.0,12.0,8.0,,,3.0
+Deborah Berke Partners,6.0,4.0,,,Industrial,Architecture and Design,4.0,6.0,5.0,,,1.5
+Grimshaw Architects,5.0,10.0,,,Industrial,Architecture and Design,10.0,5.0,7.5,,,0.5
+Hickok Cole Architects,12.0,8.0,,,Industrial,Architecture and Design,8.0,12.0,10.0,,,1.5
+HOK,6.0,,2.0,,Industrial,Architecture and Design,,4.0,4.0,4.0,,
+MG2,6.0,6.0,,,Industrial,Architecture and Design,6.0,6.0,6.0,,,1.0
+CertainTeed,12.0,12.0,,,Industrial,Building Materials Manufacturing,12.0,12.0,12.0,,,1.0
+Construction Specialties,6.0,12.0,,,Industrial,Building Materials Manufacturing,12.0,6.0,9.0,,,0.5
+Daltile,0.0,12.0,,,Industrial,Building Materials Manufacturing,12.0,0.0,6.0,,,0.0
+GAF,6.0,12.0,,,Industrial,Building Materials Manufacturing,12.0,6.0,9.0,,,0.5
+Lehigh Hanson,6.0,6.0,,,Industrial,Building Materials Manufacturing,6.0,6.0,6.0,,,1.0
+Sherwin-Williams,8.0,4.0,,,Industrial,Building Materials Manufacturing,4.0,8.0,6.0,,,2.0
+Wilsonart,6.0,12.0,,,Industrial,Building Materials Manufacturing,12.0,6.0,9.0,,,0.5
+Graham Construction & Engineering Inc,12.0,52.0,,,Industrial,Construction Company,52.0,12.0,32.0,,,0.23076923076923078
+"CIRCOR International, Inc.",12.0,12.0,,,Industrial,Diversified,12.0,12.0,12.0,,,1.0
+Danaher,8.0,6.0,,,Industrial,Diversified,6.0,8.0,7.0,,,1.3333333333333333
+Eaton,12.0,0.0,,,Industrial,Diversified,0.0,12.0,6.0,,,
+Faith Technologies,8.0,4.0,,,Industrial,Diversified,4.0,8.0,6.0,,,2.0
+HDR,2.0,8.0,,,Industrial,Diversified,8.0,2.0,5.0,,,0.25
+Honeywell,4.0,12.0,,,Industrial,Diversified,12.0,4.0,8.0,,,0.3333333333333333
+Jacobs,1.0,8.0,,,Industrial,Diversified,8.0,1.0,4.5,,,0.125
+Jason Industrial,12.0,0.0,,,Industrial,Diversified,0.0,12.0,6.0,,,
+Babcock International Group,12.0,0.0,,,Industrial,Engineering,0.0,12.0,6.0,,,
+Emerson Process Management,12.0,0.0,,,Industrial,Engineering,0.0,12.0,6.0,,,
+Equinor,16.0,2.0,,,Industrial,Engineering,2.0,16.0,9.0,,,8.0
+GZA,4.0,0.0,,,Industrial,Engineering,0.0,4.0,2.0,,,
+Pfaudler inc,10.0,0.0,,,Industrial,Engineering,0.0,10.0,5.0,,,
+Quiddity Engineering,2.0,6.0,,,Industrial,Engineering,6.0,2.0,4.0,,,0.3333333333333333
+Stantec,6.0,12.0,,,Industrial,Engineering,12.0,6.0,9.0,,,0.5
+Subsea 7,12.0,0.0,,,Industrial,Engineering,0.0,12.0,6.0,,,
+WSP Global,2.0,12.0,,,Industrial,Engineering,12.0,2.0,7.0,,,0.16666666666666666
+Xylem Inc.,4.0,0.0,,,Industrial,Engineering,0.0,4.0,2.0,,,
+AGCO Corporation,6.0,6.0,,,Industrial,Equipment Manufacturing,6.0,6.0,6.0,,,1.0
+Association of Equipment Manufacturers,6.0,6.0,,,Industrial,Equipment Manufacturing,6.0,6.0,6.0,,,1.0
+"Atlantic Diving Supply, Inc.",6.0,6.0,,,Industrial,Equipment Manufacturing,6.0,6.0,6.0,,,1.0
+Emerson Climate Technologies,12.0,,2.0,,Industrial,Equipment Manufacturing,,7.0,7.0,10.0,,
+Genie Industries,12.0,12.0,,,Industrial,Equipment Manufacturing,12.0,12.0,12.0,,,1.0
+ITW,7.0,0.0,,,Industrial,Equipment Manufacturing,0.0,7.0,3.5,,,
+KONE Corporation,9.0,0.0,,,Industrial,Equipment Manufacturing,0.0,9.0,4.5,,,
+Terex,10.0,2.0,,,Industrial,Equipment Manufacturing,2.0,10.0,6.0,,,5.0
+Weir ESCO,1.0,12.0,,,Industrial,Equipment Manufacturing,12.0,1.0,6.5,,,0.08333333333333333
+Zoox,12.0,0.0,,,Industrial,Equipment Manufacturing,0.0,12.0,6.0,,,
+"Aleris International, Inc.",4.0,0.0,,,Industrial,Materials,0.0,4.0,2.0,,,
+Avantor,4.0,0.0,,,Industrial,Materials,0.0,4.0,2.0,,,
+HP Manufacturing,6.0,6.0,,,Industrial,Materials,6.0,6.0,6.0,,,1.0
+Orica,12.0,0.0,,,Industrial,Materials,0.0,12.0,6.0,,,
+W.L. Gore,12.0,12.0,,,Industrial,Materials,12.0,12.0,12.0,,,1.0
+Grainger Industrial Supply,9.0,6.0,,,Industrial,Other,6.0,9.0,7.5,,,1.5
+Hunter Douglas,6.0,6.0,,,Industrial,Other,6.0,6.0,6.0,,,1.0
+United Rentals,6.0,7.5,,,Industrial,Other,7.5,6.0,6.75,,,0.8
+Bloomberg,26.0,0.0,,,Information Services,Diversified,0.0,26.0,13.0,,,
+Nielsen Holdings N.V.,9.0,3.0,,,Information Services,Diversified,3.0,9.0,6.0,,,3.0
+RELX Group,13.0,20.0,,,Information Services,Diversified,20.0,13.0,16.5,,,0.65
+WinBizSolutions,16.0,0.0,,,Information Services,Diversified,0.0,16.0,8.0,,,
+Wolters Kluwer,2.0,6.0,,,Information Services,Diversified,6.0,2.0,4.0,,,0.3333333333333333
+Dun & Bradstreet,15.0,20.0,,,Information Services,Financial,20.0,15.0,17.5,,,0.75
+Experian PLC,15.0,2.5,,,Information Services,Financial,2.5,15.0,8.75,,,6.0
+Fitch Ratings,12.0,0.0,,,Information Services,Financial,0.0,12.0,6.0,,,
+Ipreo Holdings LLC,24.0,8.0,,,Information Services,Financial,8.0,24.0,16.0,,,3.0
+NASDAQ,15.0,0.0,,,Information Services,Financial,0.0,15.0,7.5,,,
+TransUnion,17.0,0.0,,,Information Services,Financial,0.0,17.0,8.5,,,
+Bloomberg BNA,12.0,10.0,,,Information Services,Legal,10.0,12.0,11.0,,,1.2
+1010data,12.0,8.0,,,Information Services,Technology,8.0,12.0,10.0,,,1.5
+Avanade,16.0,1.5,,,Information Services,Technology,1.5,16.0,8.75,,,10.666666666666666
+Cloudreach,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Dataminr,16.0,0.0,,,Information Services,Technology,0.0,16.0,8.0,,,
+Dell Boomi,12.0,,12.0,,Information Services,Technology,,12.0,12.0,0.0,,
+"DoubleVerify, Inc.",10.0,8.0,,,Information Services,Technology,8.0,10.0,9.0,,,1.25
+Emids,5.0,0.0,,,Information Services,Technology,0.0,5.0,2.5,,,
+Equian,3.0,3.0,,,Information Services,Technology,3.0,3.0,3.0,,,1.0
+Eras Tech,26.0,0.0,,,Information Services,Technology,0.0,26.0,13.0,,,
+Gartner,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Google Cloud,18.5,32.5,,,Information Services,Technology,32.5,18.5,25.5,,,0.5692307692307692
+HealthStream,6.0,12.0,,,Information Services,Technology,12.0,6.0,9.0,,,0.5
+Hitachi Vantara,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Infolock,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Infosys,1.5,1.0,,,Information Services,Technology,1.0,1.5,1.25,,,1.5
+J2 Global,16.0,0.0,,,Information Services,Technology,0.0,16.0,8.0,,,
+LeverX,52.0,0.0,,,Information Services,Technology,0.0,52.0,26.0,,,
+LexisNexis,14.0,0.0,,,Information Services,Technology,0.0,14.0,7.0,,,
+Lloyd Group,3.0,0.0,,,Information Services,Technology,0.0,3.0,1.5,,,
+LMT Technology Solutions,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Microsoft Azure,16.0,4.0,,,Information Services,Technology,4.0,16.0,10.0,,,4.0
+NetImpact Strategies,4.0,12.0,,,Information Services,Technology,12.0,4.0,8.0,,,0.3333333333333333
+Newfold Digital,12.0,12.0,,,Information Services,Technology,12.0,12.0,12.0,,,1.0
+Niche,4.0,12.0,,,Information Services,Technology,12.0,4.0,8.0,,,0.3333333333333333
+NielsenIQ,20.0,0.0,,,Information Services,Technology,0.0,20.0,10.0,,,
+OM1,4.0,0.0,,,Information Services,Technology,0.0,4.0,2.0,,,
+OPTIMIZERx Corporation,4.0,8.0,,,Information Services,Technology,8.0,4.0,6.0,,,0.5
+PatientPop,12.0,12.0,,,Information Services,Technology,12.0,12.0,12.0,,,1.0
+Publicis Sapient,12.0,4.0,,,Information Services,Technology,4.0,12.0,8.0,,,3.0
+Remind,16.0,0.0,,,Information Services,Technology,0.0,16.0,8.0,,,
+RF Code,6.0,6.0,,,Information Services,Technology,6.0,6.0,6.0,,,1.0
+Siemens Healthineers,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Smarsh,2.0,4.0,,,Information Services,Technology,4.0,2.0,3.0,,,0.5
+SpotX,9.0,6.0,,,Information Services,Technology,6.0,9.0,7.5,,,1.5
+Surescripts,10.0,2.0,,,Information Services,Technology,2.0,10.0,6.0,,,5.0
+The Gordian Group,8.0,12.0,,,Information Services,Technology,12.0,8.0,10.0,,,0.6666666666666666
+TriNet,12.0,4.0,,,Information Services,Technology,4.0,12.0,8.0,,,3.0
+Verisk Analytics,10.0,4.0,,,Information Services,Technology,4.0,10.0,7.0,,,2.5
+VTS,18.0,0.0,,,Information Services,Technology,0.0,18.0,9.0,,,
+WP Engine,16.0,0.0,,,Information Services,Technology,0.0,16.0,8.0,,,
+ZoomInfo,12.0,0.0,,,Information Services,Technology,0.0,12.0,6.0,,,
+Marsh & McLennan Agency,2.0,10.0,,,Insurance,,10.0,2.0,6.0,,,0.2
+Hub International,6.0,4.0,,,Insurance,Brokerage,4.0,6.0,5.0,,,1.5
+USI Insurance Services,2.0,10.0,,,Insurance,Brokerage,10.0,2.0,6.0,,,0.2
+Willis Towers Watson,4.0,12.5,,,Insurance,Brokerage,12.5,4.0,8.25,,,0.32
+AmeriTrust Group,4.0,8.0,,,Insurance,Diversified,8.0,4.0,6.0,,,0.5
+Aspen Insurance Holdings Limited,16.0,0.0,,,Insurance,Diversified,0.0,16.0,8.0,,,
+CUNA Mutual Group,8.0,,12.0,,Insurance,Diversified,,10.0,10.0,-4.0,,
+First American,6.0,12.0,,,Insurance,Diversified,12.0,6.0,9.0,,,0.5
+Hiscox,12.0,0.0,,,Insurance,Diversified,0.0,12.0,6.0,,,
+IAG Limited,12.0,40.0,,,Insurance,Diversified,40.0,12.0,26.0,,,0.3
+Lockton Companies Inc.,12.0,0.0,,,Insurance,Diversified,0.0,12.0,6.0,,,
+MassMutual,8.0,12.0,,,Insurance,Diversified,12.0,8.0,10.0,,,0.6666666666666666
+MJ Insurance,2.0,10.0,,,Insurance,Diversified,10.0,2.0,6.0,,,0.2
+Sana Benefits,13.0,13.0,,,Insurance,Diversified,13.0,13.0,13.0,,,1.0
+Sun Life Financial,16.0,0.0,,,Insurance,Diversified,0.0,16.0,8.0,,,
+The McGowan Companies Inc.,12.0,12.0,,,Insurance,Diversified,12.0,12.0,12.0,,,1.0
+Trustmark Companies,6.0,6.0,,,Insurance,Diversified,6.0,6.0,6.0,,,1.0
+Anthem,0.0,6.0,,,Insurance,Health,6.0,0.0,3.0,,,0.0
+Blue Cross and Blue Shield of Texas,6.0,0.0,,,Insurance,Health,0.0,6.0,3.0,,,
+Blue Cross Blue Shield of Alabama,6.0,6.0,,,Insurance,Health,6.0,6.0,6.0,,,1.0
+Cambia Health Solutions,12.0,0.0,,,Insurance,Health,0.0,12.0,6.0,,,
+CareFirst,6.0,5.0,,,Insurance,Health,5.0,6.0,5.5,,,1.2
+CareSource,12.0,0.0,,,Insurance,Health,0.0,12.0,6.0,,,
+Centene Corporation,3.0,7.5,,,Insurance,Health,7.5,3.0,5.25,,,0.4
+CIGNA Corporation,6.0,4.0,,,Insurance,Health,4.0,6.0,5.0,,,1.5
+Clover Health,6.0,8.0,,,Insurance,Health,8.0,6.0,7.0,,,0.75
+Delta Dental Ins,6.0,8.0,,,Insurance,Health,8.0,6.0,7.0,,,0.75
+GoHealth,6.0,6.0,,,Insurance,Health,6.0,6.0,6.0,,,1.0
+Independence Blue Cross,12.0,7.0,,,Insurance,Health,7.0,12.0,9.5,,,1.7142857142857142
+Oscar Health,16.0,0.0,,,Insurance,Health,0.0,16.0,8.0,,,
+Premera Blue Cross,12.0,0.0,,,Insurance,Health,0.0,12.0,6.0,,,
+UCare,12.0,5.0,,,Insurance,Health,5.0,12.0,8.5,,,2.4
+UnitedHealthcare,4.0,4.0,,,Insurance,Health,4.0,4.0,4.0,,,1.0
+WellCare Health Plans,6.0,6.0,,,Insurance,Health,6.0,6.0,6.0,,,1.0
+American Income Life,52.0,0.0,,,Insurance,Life,0.0,52.0,26.0,,,
+"Genworth Financial, Inc.",12.0,0.0,,,Insurance,Life,0.0,12.0,6.0,,,
+GuardianLife,7.0,7.0,,,Insurance,Life,7.0,7.0,7.0,,,1.0
+MetLife,5.0,0.0,,,Insurance,Life,0.0,5.0,2.5,,,
+National Benefit Life Insurance,13.0,15.0,,,Insurance,Life,15.0,13.0,14.0,,,0.8666666666666667
+New York Life Insurance Company,12.0,12.0,,,Insurance,Life,12.0,12.0,12.0,,,1.0
+Prudential Financial,10.0,16.0,,,Insurance,Life,16.0,10.0,13.0,,,0.625
+Unum,6.0,23.0,,,Insurance,Life,23.0,6.0,14.5,,,0.2608695652173913
+Allstate Insurance Company,6.0,0.0,,,Insurance,Property and Casualty,0.0,6.0,3.0,,,
+American Family Insurance,12.0,2.0,,,Insurance,Property and Casualty,2.0,12.0,7.0,,,6.0
+"Assurant, Inc.",4.0,2.0,,,Insurance,Property and Casualty,2.0,4.0,3.0,,,2.0
+Farmers Insurance,12.0,16.0,,,Insurance,Property and Casualty,16.0,12.0,14.0,,,0.75
+FM Global,4.0,2.0,,,Insurance,Property and Casualty,2.0,4.0,3.0,,,2.0
+GEICO,10.0,0.0,,,Insurance,Property and Casualty,0.0,10.0,5.0,,,
+IAT Insurance Group,2.0,12.0,,,Insurance,Property and Casualty,12.0,2.0,7.0,,,0.16666666666666666
+Intact Financial Corporation,52.0,0.0,,,Insurance,Property and Casualty,0.0,52.0,26.0,,,
+Liberty Mutual Insurance,16.0,0.0,,,Insurance,Property and Casualty,0.0,16.0,8.0,,,
+Progressive Corporation,7.5,16.0,,,Insurance,Property and Casualty,16.0,7.5,11.75,,,0.46875
+Selective Insurance,2.0,12.0,,,Insurance,Property and Casualty,12.0,2.0,7.0,,,0.16666666666666666
+The Hartford,4.5,6.0,,,Insurance,Property and Casualty,6.0,4.5,5.25,,,0.75
+Travelers,2.0,8.0,,,Insurance,Property and Casualty,8.0,2.0,5.0,,,0.25
+Guy Carpenter,8.0,12.0,,,Insurance,Reinsurance,12.0,8.0,10.0,,,0.6666666666666666
+Burr & Forman LLP,4.0,4.0,,,Law Firm,,4.0,4.0,4.0,,,1.0
+Cleary Gottlieb Steen & Hamilton LLP,16.0,26.0,,,Law Firm,,26.0,16.0,21.0,,,0.6153846153846154
+Cooley LLP,24.0,12.0,,,Law Firm,,12.0,24.0,18.0,,,2.0
+"Correia & Puth, PLLC",6.0,10.0,,,Law Firm,,10.0,6.0,8.0,,,0.6
+Covington & Burling LLP,16.0,0.0,,,Law Firm,,0.0,16.0,8.0,,,
+Crowell & Moring,4.0,0.0,,,Law Firm,,0.0,4.0,2.0,,,
+Davis & Santos,3.0,2.0,,,Law Firm,,2.0,3.0,2.5,,,1.5
+Desmarais LLP,12.0,0.0,,,Law Firm,,0.0,12.0,6.0,,,
+Entwistle & Cappucci LLC,8.0,10.0,,,Law Firm,,10.0,8.0,9.0,,,0.8
+Fox Rothschild LLP,12.0,0.0,,,Law Firm,,0.0,12.0,6.0,,,
+Fragomen,6.0,6.0,,,Law Firm,,6.0,6.0,6.0,,,1.0
+Hogan Lovells,20.0,6.0,,,Law Firm,,6.0,20.0,13.0,,,3.3333333333333335
+Hudson Cook,6.0,0.0,,,Law Firm,,0.0,6.0,3.0,,,
+Kirkland & Ellis LLP,18.0,0.0,,,Law Firm,,0.0,18.0,9.0,,,
+Latham & Watkins LLP,12.0,0.0,,,Law Firm,,0.0,12.0,6.0,,,
+Lathrop GPM LLP,16.0,0.0,,,Law Firm,,0.0,16.0,8.0,,,
+Linklaters LLP,18.0,0.0,,,Law Firm,,0.0,18.0,9.0,,,
+Littler Mendelson P.C.,12.0,0.0,,,Law Firm,,0.0,12.0,6.0,,,
+"Manatt, Phelps & Phillips, LLP",12.0,29.0,,,Law Firm,,29.0,12.0,20.5,,,0.41379310344827586
+Mayer Brown,0.0,,0.0,,Law Firm,,,0.0,0.0,0.0,,
+McLane Middleton PA,6.0,6.0,,,Law Firm,,6.0,6.0,6.0,,,1.0
+Mintz Levin Cohn Ferris Glovsky and Popeo PC,17.0,0.0,,,Law Firm,,0.0,17.0,8.5,,,
+Schlam Stone & Dolan,12.0,4.0,,,Law Firm,,4.0,12.0,8.0,,,3.0
+Simpson Thacher & Bartlett LLP,16.0,10.0,,,Law Firm,,10.0,16.0,13.0,,,1.6
+Veritas Law,52.0,0.0,,,Law Firm,,0.0,52.0,26.0,,,
+Wynyard Wood,26.0,52.0,,,Law Firm,,52.0,26.0,39.0,,,0.5
+HBR Consulting,4.0,3.0,,,Legal Services,,3.0,4.0,3.5,,,1.3333333333333333
+Cruise Planners,3.0,0.0,,,"Leisure, Travel and Tourism",,0.0,3.0,1.5,,,
+Royal Caribbean International,4.0,2.0,,,"Leisure, Travel and Tourism",,2.0,4.0,3.0,,,2.0
+VRBO,18.0,0.0,,,"Leisure, Travel and Tourism",,0.0,18.0,9.0,,,
+BrightTALK,12.0,12.0,,,Media,,12.0,12.0,12.0,,,1.0
+CondŽ Nast,4.0,0.0,,,Media,Diversified,0.0,4.0,2.0,,,
+Meredith,12.0,12.0,,,Media,Diversified,12.0,12.0,12.0,,,1.0
+NBCUniversal,16.0,4.0,,,Media,Diversified,4.0,16.0,10.0,,,4.0
+Quartz,2.0,0.0,,,Media,Diversified,0.0,2.0,1.0,,,
+Sky PLC,26.0,,6.0,,Media,Diversified,,16.0,16.0,20.0,,
+Thomson Reuters,12.0,10.0,,,Media,Diversified,10.0,12.0,11.0,,,1.2
+Townsquare Media,12.0,0.0,,,Media,Diversified,0.0,12.0,6.0,,,
+Viacom Inc.,10.0,2.5,,,Media,Diversified,2.5,10.0,6.25,,,4.0
+ViacomCBS,4.0,6.0,,,Media,Diversified,6.0,4.0,5.0,,,0.6666666666666666
+WGBH,4.0,12.0,,,Media,Diversified,12.0,4.0,8.0,,,0.3333333333333333
+Cinemark,1.0,12.0,,,Media,Entertainment,12.0,1.0,6.5,,,0.08333333333333333
+Lionsgate,20.0,0.0,,,Media,Entertainment,0.0,20.0,10.0,,,
+Madison Square Garden,12.0,0.0,,,Media,Entertainment,0.0,12.0,6.0,,,
+Showtime,12.0,3.0,,,Media,Entertainment,3.0,12.0,7.5,,,4.0
+Spins,6.0,0.0,,,Media,Magazines,0.0,6.0,3.0,,,
+The Atlantic,12.0,4.0,,,Media,Magazines,4.0,12.0,8.0,,,3.0
+Business Insider,12.0,0.0,,,Media,News,0.0,12.0,6.0,,,
+Dow Jones,20.0,12.0,,,Media,News,12.0,20.0,16.0,,,1.6666666666666667
+Forbes,12.0,0.0,,,Media,News,0.0,12.0,6.0,,,
+Gannett,2.0,12.0,,,Media,News,12.0,2.0,7.0,,,0.16666666666666666
+New York Times,16.0,16.0,,,Media,News,16.0,16.0,16.0,,,1.0
+The New York Times Company,20.0,20.0,,,Media,News,20.0,20.0,20.0,,,1.0
+Washington Post,18.0,0.0,,,Media,News,0.0,18.0,9.0,,,
+Public Broadcasting Service,12.0,0.0,,,Media,Television,0.0,12.0,6.0,,,
+Sinclair Broadcast Group,6.0,0.0,,,Media,Television,0.0,6.0,3.0,,,
+ASML,52.0,40.0,,,Electronics,,40.0,52.0,46.0,,,1.3
+INK Communications Co.,10.0,2.0,,,Public Relations,,2.0,10.0,6.0,,,5.0
+Rokt,15.0,0.0,,,Technology,Software,0.0,15.0,7.5,,,
+Bunge North America,0.0,6.0,,,Natural Resources,Agriculture and Food Processing,6.0,0.0,3.0,,,0.0
+Pilgrim's Pride,6.0,0.0,,,Natural Resources,Agriculture and Food Processing,0.0,6.0,3.0,,,
+Tate & Lyle,20.5,13.0,,,Natural Resources,Agriculture and Food Processing,13.0,20.5,16.75,,,1.5769230769230769
+CHS Inc.,0.0,16.0,,,Natural Resources,Agrochemical,16.0,0.0,8.0,,,0.0
+"Air Products & Chemicals, Inc.",4.0,8.0,,,Natural Resources,Chemicals,8.0,4.0,6.0,,,0.5
+AkzoNobel Global,12.0,12.0,,,Natural Resources,Chemicals,12.0,12.0,12.0,,,1.0
+Albemarle Corporation,7.0,5.0,,,Natural Resources,Chemicals,5.0,7.0,6.0,,,1.4
+"Ashland, Inc.",6.0,18.0,,,Natural Resources,Chemicals,18.0,6.0,12.0,,,0.3333333333333333
+DuPont,16.0,12.0,,,Natural Resources,Chemicals,12.0,16.0,14.0,,,1.3333333333333333
+Eastman Chemical Company,4.0,6.0,,,Natural Resources,Chemicals,6.0,4.0,5.0,,,0.6666666666666666
+LyondellBasell,0.0,12.0,,,Natural Resources,Chemicals,12.0,0.0,6.0,,,0.0
+"Nalco, An Ecolab Company",24.0,0.0,,,Natural Resources,Chemicals,0.0,24.0,12.0,,,
+Nutrien,12.0,26.0,,,Natural Resources,Chemicals,26.0,12.0,19.0,,,0.46153846153846156
+Solvay S.A.,16.0,12.0,,,Natural Resources,Chemicals,12.0,16.0,14.0,,,1.3333333333333333
+Syngenta Flowers,6.0,0.0,,,Natural Resources,Chemicals,0.0,6.0,3.0,,,
+CLEAResult,2.0,10.0,,,Natural Resources,Diversified Energy,10.0,2.0,6.0,,,0.2
+Consolidated Edison Inc.,10.0,16.0,,,Natural Resources,Diversified Energy,16.0,10.0,13.0,,,0.625
+Entergy Corporation,6.0,0.0,,,Natural Resources,Diversified Energy,0.0,6.0,3.0,,,
+"NRG Energy, Inc.",6.0,6.0,,,Natural Resources,Diversified Energy,6.0,6.0,6.0,,,1.0
+Eversource,8.0,4.0,,,Natural Resources,Electric and Gas Utility,4.0,8.0,6.0,,,2.0
+GE Power,24.0,20.0,,,Natural Resources,Electric and Gas Utility,20.0,24.0,22.0,,,1.2
+National Grid plc,26.0,13.0,,,Natural Resources,Electric and Gas Utility,13.0,26.0,19.5,,,2.0
+NiSource,26.0,26.0,,,Natural Resources,Electric and Gas Utility,26.0,26.0,26.0,,,1.0
+Sempra Energy,12.0,0.0,,,Natural Resources,Electric and Gas Utility,0.0,12.0,6.0,,,
+Williams,10.5,0.0,,,Natural Resources,Electric and Gas Utility,0.0,10.5,5.25,,,
+"American Electric Power Company, Inc.",8.0,,2.0,,Natural Resources,Electric Power Generation,,5.0,5.0,6.0,,
+Duke Energy,13.0,1.5,,,Natural Resources,Electric Power Generation,1.5,13.0,7.25,,,8.666666666666666
+Exelon Corporation,16.0,24.0,,,Natural Resources,Electric Power Generation,24.0,16.0,20.0,,,0.6666666666666666
+Pacific Gas and Electric Company,12.0,26.0,,,Natural Resources,Electric Power Generation,26.0,12.0,19.0,,,0.46153846153846156
+Southern California Edison,8.0,12.0,,,Natural Resources,Electric Power Generation,12.0,8.0,10.0,,,0.6666666666666666
+Freeport-McMoRan,26.0,0.0,,,Natural Resources,Metals and Mining,0.0,26.0,13.0,,,
+Novelis,8.0,0.0,,,Natural Resources,Metals and Mining,0.0,8.0,4.0,,,
+"Enbridge, Inc.",6.0,12.0,,,Natural Resources,Oil and Gas,12.0,6.0,9.0,,,0.5
+ExxonMobil,8.0,0.0,,,Natural Resources,Oil and Gas,0.0,8.0,4.0,,,
+Marathon Petroleum Corporation,8.0,0.0,,,Natural Resources,Oil and Gas,0.0,8.0,4.0,,,
+Shell Oil Company,16.0,4.0,,,Natural Resources,Oil and Gas,4.0,16.0,10.0,,,4.0
+"T.D. Williamson, Inc.",6.0,6.0,,,Natural Resources,Oil and Gas,6.0,6.0,6.0,,,1.0
+ASRC Energy Services,12.0,0.0,,,Natural Resources,Oilfield Services,0.0,12.0,6.0,,,
+Baker Hughes,8.0,0.0,,,Natural Resources,Oilfield Services,0.0,8.0,4.0,,,
+Schlumberger,11.0,12.0,,,Natural Resources,Oilfield Services,12.0,11.0,11.5,,,0.9166666666666666
+Save the Children,5.0,0.0,,,Nonprofit,Charity,0.0,5.0,2.5,,,
+The Pew Charitable Trusts,6.0,6.0,,,Nonprofit,Charity,6.0,6.0,6.0,,,1.0
+World Vision,52.0,0.0,,,Nonprofit,Charity,0.0,52.0,26.0,,,
+AARP,6.0,6.0,,,Nonprofit,Civic and Social,6.0,6.0,6.0,,,1.0
+Convergence,26.0,26.0,,,Nonprofit,Civic and Social,26.0,26.0,26.0,,,1.0
+Enterprise Community Partners,12.0,0.0,,,Nonprofit,Civic and Social,0.0,12.0,6.0,,,
+Help USA,12.0,12.0,,,Nonprofit,Civic and Social,12.0,12.0,12.0,,,1.0
+National Partnership for Women & Families,15.0,0.0,,,Nonprofit,Civic and Social,0.0,15.0,7.5,,,
+Project Renewal,0.0,0.0,,,Nonprofit,Civic and Social,0.0,0.0,0.0,,,
+uAspire,2.0,20.0,,,Nonprofit,Civic and Social,20.0,2.0,11.0,,,0.1
+Washburn Center For Children,52.0,2.0,,,Nonprofit,Civic and Social,2.0,52.0,27.0,,,26.0
+Endeavor,16.0,0.0,,,Nonprofit,Development,0.0,16.0,8.0,,,
+Achievement Network,12.0,4.0,,,Nonprofit,Education,4.0,12.0,8.0,,,3.0
+Start Early,24.0,,24.0,,Nonprofit,Education,,24.0,24.0,0.0,,
+Teach for America,12.0,0.0,,,Nonprofit,Education,0.0,12.0,6.0,,,
+Wildwood Programs,12.0,0.0,,,Nonprofit,Education,0.0,12.0,6.0,,,
+Environmental Defense Fund,8.0,16.0,,,Nonprofit,Environmental Organization,16.0,8.0,12.0,,,0.5
+Natural Resources Defense Council,15.0,9.0,,,Nonprofit,Environmental Organization,9.0,15.0,12.0,,,1.6666666666666667
+The Nature Conservancy,6.0,6.0,,,Nonprofit,Environmental Organization,6.0,6.0,6.0,,,1.0
+Financial Industry Regulatory Authority,12.0,0.0,,,Nonprofit,Finance,0.0,12.0,6.0,,,
+Financial Ombudsman Service,26.0,12.0,,,Nonprofit,Finance,12.0,26.0,19.0,,,2.1666666666666665
+Harvard Pilgrim Health Care,4.0,0.0,,,Nonprofit,Healthcare,0.0,4.0,2.0,,,
+Jewish Board of Family and Children's Services,12.0,0.0,,,Nonprofit,Healthcare,0.0,12.0,6.0,,,
+Planned Parenthood,6.0,6.0,,,Nonprofit,Healthcare,6.0,6.0,6.0,,,1.0
+Sanford Health,4.0,4.0,,,Nonprofit,Healthcare,4.0,4.0,4.0,,,1.0
+SWOG,6.0,6.0,,,Nonprofit,Healthcare,6.0,6.0,6.0,,,1.0
+The Task Force For Global Health,0.0,12.0,,,Nonprofit,Healthcare,12.0,0.0,6.0,,,0.0
+American Red Cross,8.0,8.0,,,Nonprofit,Humanitarian Aid Organization,8.0,8.0,8.0,,,1.0
+International Justice Mission,12.0,12.0,,,Nonprofit,Legal,12.0,12.0,12.0,,,1.0
+Legal Aid Society - Employment Law Center,12.0,52.0,,,Nonprofit,Legal,52.0,12.0,32.0,,,0.23076923076923078
+Center for Reproductive Rights,12.0,4.0,,,Nonprofit,Legal Services,4.0,12.0,8.0,,,3.0
+Legal Aid of North Carolina,6.0,6.0,,,Nonprofit,Legal Services,6.0,6.0,6.0,,,1.0
+Westbank Community Library,12.0,0.0,,,Nonprofit,Libraries,0.0,12.0,6.0,,,
+Camden Coalition of Healthcare Providers,4.0,12.0,,,Nonprofit,Medical,12.0,4.0,8.0,,,0.3333333333333333
+"MOXI, The Wolf Museum of Exploration + Innovation",1.0,12.0,,,Nonprofit,Museums,12.0,1.0,6.5,,,0.08333333333333333
+The Field Museum,8.0,4.0,,,Nonprofit,Museums,4.0,8.0,6.0,,,2.0
+The World Economic Forum,12.0,6.0,,,Nonprofit,Political Organization,6.0,12.0,9.0,,,2.0
+Archdiocese of Chicago,12.0,12.0,,,Nonprofit,Religious,12.0,12.0,12.0,,,1.0
+Battelle Memorial Institute,6.0,0.0,,,Nonprofit,Research,0.0,6.0,3.0,,,
+Charles Stark Draper Laboratory,12.0,0.0,,,Nonprofit,Research,0.0,12.0,6.0,,,
+"Education Development Center, Inc.",12.0,0.0,,,Nonprofit,Research,0.0,12.0,6.0,,,
+HopeLab,16.0,0.0,,,Nonprofit,Research,0.0,16.0,8.0,,,
+RTI International,6.0,6.0,,,Nonprofit,Research,6.0,6.0,6.0,,,1.0
+The Leukemia & Lymphoma Society,3.0,9.0,,,Nonprofit,Research,9.0,3.0,6.0,,,0.3333333333333333
+American Chemical Society,8.0,12.0,,,Nonprofit,Science and Technology,12.0,8.0,10.0,,,0.6666666666666666
+AICPA,10.0,0.0,,,Nonprofit,Trade Organization,0.0,10.0,5.0,,,
+The Georgia Society of CPAs,8.0,4.0,,,Nonprofit,Trade Organization,4.0,8.0,6.0,,,2.0
+American Canning,6.0,6.0,,,Packaging,,6.0,6.0,6.0,,,1.0
+Avery Dennison,9.0,0.0,,,Packaging,,0.0,9.0,4.5,,,
+AbbVie Inc.,12.0,12.0,,,Pharmaceutical,,12.0,12.0,12.0,,,1.0
+Agios Pharmaceuticals,8.0,0.0,,,Pharmaceutical,,0.0,8.0,4.0,,,
+AstraZeneca,6.0,52.0,,,Pharmaceutical,,52.0,6.0,29.0,,,0.11538461538461539
+Bayer AG,4.0,12.0,,,Pharmaceutical,,12.0,4.0,8.0,,,0.3333333333333333
+Bayer HealthCare Pharmaceuticals,4.0,1.0,,,Pharmaceutical,,1.0,4.0,2.5,,,4.0
+Envigo,6.0,0.0,,,Pharmaceutical,,0.0,6.0,3.0,,,
+Ferring Pharmaceuticals,8.0,8.0,,,Pharmaceutical,,8.0,8.0,8.0,,,1.0
+Kite Pharma,12.0,0.0,,,Pharmaceutical,,0.0,12.0,6.0,,,
+"Merck & Co., Inc.",9.0,8.0,,,Pharmaceutical,,8.0,9.0,8.5,,,1.125
+Novartis,13.0,6.0,,,Pharmaceutical,,6.0,13.0,9.5,,,2.1666666666666665
+Oceanic Pharmachem Pvt. Ltd.,12.0,14.0,,,Pharmaceutical,,14.0,12.0,13.0,,,0.8571428571428571
+Otsuka Pharmaceutical,8.0,0.0,,,Pharmaceutical,,0.0,8.0,4.0,,,
+Pfizer,12.0,12.0,,,Pharmaceutical,,12.0,12.0,12.0,,,1.0
+Reata Pharmaceuticals,6.0,6.0,,,Pharmaceutical,,6.0,6.0,6.0,,,1.0
+Recursion Pharmaceuticals,12.0,0.0,,,Pharmaceutical,,0.0,12.0,6.0,,,
+Syneos Health,14.0,38.0,,,Pharmaceutical,,38.0,14.0,26.0,,,0.3684210526315789
+Express Scripts Holding,2.0,6.0,,,Pharmacies and Drug Stores,,6.0,2.0,4.0,,,0.3333333333333333
+OptumRx,12.0,12.0,,,Pharmacies and Drug Stores,,12.0,12.0,12.0,,,1.0
+Chan Zuckerberg Initiative,16.0,4.0,,,Philanthropy,,4.0,16.0,10.0,,,4.0
+Harold Grinspoon Foundation,13.0,12.0,,,Philanthropy,,12.0,13.0,12.5,,,1.0833333333333333
+Open Society Foundations,25.0,13.0,,,Philanthropy,,13.0,25.0,19.0,,,1.9230769230769231
+W. K. Kellogg Foundation,32.0,0.0,,,Philanthropy,,0.0,32.0,16.0,,,
+BCW,4.0,0.0,,,Public Relations,,0.0,4.0,2.0,,,
+Curley & Pynn,6.0,0.0,,,Public Relations,,0.0,6.0,3.0,,,
+Edelman,12.0,0.0,,,Public Relations,,0.0,12.0,6.0,,,
+Golin,8.0,27.0,,,Public Relations,,27.0,8.0,17.5,,,0.2962962962962963
+MWWPR,12.0,,12.0,,Public Relations,,,12.0,12.0,0.0,,
+Virgo Health,4.0,2.0,,,Public Relations,,2.0,4.0,3.0,,,2.0
+American City Business Journals,12.0,0.0,,,Publishing,,0.0,12.0,6.0,,,
+Axel Springer,16.0,52.0,,,Publishing,,52.0,16.0,34.0,,,0.3076923076923077
+Curriculum Associates,12.0,0.0,,,Publishing,,0.0,12.0,6.0,,,
+Macmillan Learning,14.0,0.0,,,Publishing,,0.0,14.0,7.0,,,
+Mcgraw Hill,10.5,12.0,,,Publishing,,12.0,10.5,11.25,,,0.875
+Penguin Random House,10.0,0.0,,,Publishing,,0.0,10.0,5.0,,,
+NavigatorCRE,6.0,0.0,,,Real Estate,,0.0,6.0,3.0,,,
+Keller Williams Realty,13.0,0.0,,,Real Estate,Brokers,0.0,13.0,6.5,,,
+Redfin,16.0,4.0,,,Real Estate,Brokers,4.0,16.0,10.0,,,4.0
+Square Yards,12.0,13.0,,,Real Estate,Brokers,13.0,12.0,12.5,,,0.9230769230769231
+Wyse Home Team Realty,4.0,52.0,,,Real Estate,Brokers,52.0,4.0,28.0,,,0.07692307692307693
+CBRE,6.0,1.0,,,Real Estate,Development and Management,1.0,6.0,3.5,,,6.0
+HILLS Properties,8.0,4.0,,,Real Estate,Development and Management,4.0,8.0,6.0,,,2.0
+Jones Lang LaSalle,4.0,12.0,,,Real Estate,Development and Management,12.0,4.0,8.0,,,0.3333333333333333
+Ryan Companies,12.0,6.0,,,Real Estate,Development and Management,6.0,12.0,9.0,,,2.0
+The Howard Hughes Corporation,12.0,0.0,,,Real Estate,Development and Management,0.0,12.0,6.0,,,
+David Weekley Homes,12.0,24.0,,,Real Estate,Home Building,24.0,12.0,18.0,,,0.5
+PGIM Real Estate,8.0,4.0,,,Real Estate,Investment Trust,4.0,8.0,6.0,,,2.0
+Uniti,4.0,2.0,,,Real Estate,Investment Trust,2.0,4.0,3.0,,,2.0
+Blanton Turner,4.0,12.0,,,Real Estate,Management,12.0,4.0,8.0,,,0.3333333333333333
+Love's,8.0,6.0,,,Retail,Convenience Store,6.0,8.0,7.0,,,1.3333333333333333
+Hallmark Cards,8.0,20.0,,,Retail,"Crafts, Fabrics and Party Supplies",20.0,8.0,14.0,,,0.4
+Michaels,8.0,0.0,,,Retail,"Crafts, Fabrics and Party Supplies",0.0,8.0,4.0,,,
+Belk,8.0,4.0,,,Retail,Department Store,4.0,8.0,6.0,,,2.0
+Bloomingdale's,12.0,0.0,,,Retail,Department Store,0.0,12.0,6.0,,,
+Macy's,11.5,6.0,,,Retail,Department Store,6.0,11.5,8.75,,,1.9166666666666667
+Myer,12.0,52.0,,,Retail,Department Store,52.0,12.0,32.0,,,0.23076923076923078
+Nordstrom,12.0,3.0,,,Retail,Department Store,3.0,12.0,7.5,,,4.0
+Aldi USA,6.0,4.0,,,Retail,Discount Store,4.0,6.0,5.0,,,1.5
+BJs Wholesale Club,10.0,2.0,,,Retail,Discount Store,2.0,10.0,6.0,,,5.0
+Costco,8.0,2.0,,,Retail,Discount Store,2.0,8.0,5.0,,,4.0
+Dollar General,8.0,0.0,,,Retail,Discount Store,0.0,8.0,4.0,,,
+Ross Stores,6.0,6.0,,,Retail,Discount Store,6.0,6.0,6.0,,,1.0
+Sprouts Farmers Market,3.5,5.5,,,Retail,Discount Store,5.5,3.5,4.5,,,0.6363636363636364
+Best Buy,12.0,0.0,,,Retail,Electronics,0.0,12.0,6.0,,,
+Crutchfield,2.0,20.0,,,Retail,Electronics,20.0,2.0,11.0,,,0.1
+Telstra,18.0,52.0,,,Retail,Electronics,52.0,18.0,35.0,,,0.34615384615384615
+Central Garden & Pet,6.0,6.0,,,Retail,Furniture and Home Improvement,6.0,6.0,6.0,,,1.0
+Floor & Decor,2.0,6.0,,,Retail,Furniture and Home Improvement,6.0,2.0,4.0,,,0.3333333333333333
+Sleep Number,4.5,3.0,,,Retail,Furniture and Home Improvement,3.0,4.5,3.75,,,1.5
+Williams Sonoma,26.0,8.0,,,Retail,Furniture and Home Improvement,8.0,26.0,17.0,,,3.25
+Kroger,8.0,4.0,,,Retail,General Merchandise,4.0,8.0,6.0,,,2.0
+LoweÕs Home Improvement,11.0,0.0,,,Retail,General Merchandise,0.0,11.0,5.5,,,
+Petco,2.0,52.0,,,Retail,General Merchandise,52.0,2.0,27.0,,,0.038461538461538464
+Petsmart,8.0,4.0,,,Retail,General Merchandise,4.0,8.0,6.0,,,2.0
+Tesco PLC,27.0,18.0,,,Retail,General Merchandise,18.0,27.0,22.5,,,1.5
+Signet Jewelers,9.0,3.0,,,Retail,Jewelery,3.0,9.0,6.0,,,3.0
+Drizly,6.0,6.0,,,Retail,Liquor,6.0,6.0,6.0,,,1.0
+Custom Ink,3.0,8.0,,,Retail,Online,8.0,3.0,5.5,,,0.375
+Overstock.com,4.0,,4.0,,Retail,Online,,4.0,4.0,0.0,,
+Zola,12.0,4.0,,,Retail,Online,4.0,12.0,8.0,,,3.0
+Academy Sports + Outdoors,6.0,1.0,,,Retail,Other,1.0,6.0,3.5,,,6.0
+Accent Decor,3.0,12.0,,,Retail,Other,12.0,3.0,7.5,,,0.25
+Guitar Center,7.0,2.0,,,Retail,Other,2.0,7.0,4.5,,,3.5
+Marshall Retail Group,9.0,0.0,,,Retail,Other,0.0,9.0,4.5,,,
+Uncommon Goods,10.0,2.0,,,Retail,Other,2.0,10.0,6.0,,,5.0
+ANN Inc.,6.0,6.0,,,Retail,"Shoes, Accessories and Apparel",6.0,6.0,6.0,,,1.0
+Athleta,15.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,15.0,7.5,,,
+Calvin Klein,8.0,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,8.0,6.0,,,2.0
+DICK'S Sporting Goods,9.0,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,9.0,6.5,,,2.25
+DSW,11.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,11.0,5.5,,,
+Esprit,6.0,16.0,,,Retail,"Shoes, Accessories and Apparel",16.0,6.0,11.0,,,0.375
+Evisons,6.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,6.0,3.0,,,
+Fossil,6.0,9.0,,,Retail,"Shoes, Accessories and Apparel",9.0,6.0,7.5,,,0.6666666666666666
+Haggar,6.0,24.0,,,Retail,"Shoes, Accessories and Apparel",24.0,6.0,15.0,,,0.25
+Hollister,6.0,12.0,,,Retail,"Shoes, Accessories and Apparel",12.0,6.0,9.0,,,0.5
+J.Crew,4.5,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,4.5,4.25,,,1.125
+"Jockey International, Inc.",6.0,6.0,,,Retail,"Shoes, Accessories and Apparel",6.0,6.0,6.0,,,1.0
+Lands' End,8.0,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,8.0,6.0,,,2.0
+Levi Strauss & Co.,12.0,21.0,,,Retail,"Shoes, Accessories and Apparel",21.0,12.0,16.5,,,0.5714285714285714
+Lululemon Athletica,24.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,24.0,12.0,,,
+New Balance,20.0,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,20.0,12.0,,,5.0
+PVH Corp.,6.0,4.0,,,Retail,"Shoes, Accessories and Apparel",4.0,6.0,5.0,,,1.5
+"Reebok International, Ltd.",8.0,8.0,,,Retail,"Shoes, Accessories and Apparel",8.0,8.0,8.0,,,1.0
+REI,16.0,6.0,,,Retail,"Shoes, Accessories and Apparel",6.0,16.0,11.0,,,2.6666666666666665
+Trunk Club,12.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,12.0,6.0,,,
+Uniqlo,0.0,0.0,,,Retail,"Shoes, Accessories and Apparel",0.0,0.0,0.0,,,
+Meredith Digital,12.0,0.0,,,Retail,Stationary and Office Supplies,0.0,12.0,6.0,,,
+Office Depot,6.0,8.0,,,Retail,Stationary and Office Supplies,8.0,6.0,7.0,,,0.75
+Ahold Delhaize,6.0,6.0,,,Retail,Supermarket Company,6.0,6.0,6.0,,,1.0
+Family Dollar,9.0,0.0,,,Retail,Supermarket Company,0.0,9.0,4.5,,,
+Hy-Vee,8.0,4.0,,,Retail,Supermarket Company,4.0,8.0,6.0,,,2.0
+Lowes Foods,15.0,15.0,,,Retail,Supermarket Company,15.0,15.0,15.0,,,1.0
+CozyKin,6.0,6.0,,,Services,Daycare,6.0,6.0,6.0,,,1.0
+EasyWayPaper,30.0,5.0,,,Services,Other,5.0,30.0,17.5,,,6.0
+Essay 4 Students,25.0,5.0,,,Services,Other,5.0,25.0,15.0,,,5.0
+Industrious,0.0,4.0,,,Services,Other,4.0,0.0,2.0,,,0.0
+International SOS,16.0,0.0,,,Services,Other,0.0,16.0,8.0,,,
+Sunrun,10.0,0.0,,,Services,Other,0.0,10.0,5.0,,,
+Terminix,13.0,6.5,,,Services,Other,6.5,13.0,9.75,,,2.0
+Uno Assignment Help,4.0,6.0,,,Services,Other,6.0,4.0,5.0,,,0.6666666666666666
+TransPerfect,8.0,4.0,,,Services,Translation,4.0,8.0,6.0,,,2.0
+"Clean Harbors, Inc.",0.0,12.0,,,Services,Waste Management,12.0,0.0,6.0,,,0.0
+"Republic Services, Inc.",8.0,0.0,,,Services,Waste Management,0.0,8.0,4.0,,,
+Waste Connections,6.0,12.0,,,Services,Waste Management,12.0,6.0,9.0,,,0.5
+WIN Waste Innovations,12.0,12.0,,,Services,Waste Management,12.0,12.0,12.0,,,1.0
+Nike,12.0,12.0,,,Sporting Goods,,12.0,12.0,12.0,,,1.0
+Trek Bikes,12.0,0.0,,,Sporting Goods,,0.0,12.0,6.0,,,
+National Football League,16.0,0.0,,,Sports,,0.0,16.0,8.0,,,
+Round Rock Express,1.0,0.0,,,Sports,,0.0,1.0,0.5,,,
+Braze,18.0,2.0,,,Technology,,2.0,18.0,10.0,,,9.0
+Akamai,11.0,6.0,,,Technology,B2B Tech Services,6.0,11.0,8.5,,,1.8333333333333333
+Amazon Web Services,12.0,5.5,,,Technology,B2B Tech Services,5.5,12.0,8.75,,,2.1818181818181817
+Atos,8.0,0.0,,,Technology,B2B Tech Services,0.0,8.0,4.0,,,
+Bepress,14.0,26.0,,,Technology,B2B Tech Services,26.0,14.0,20.0,,,0.5384615384615384
+CACI International,3.0,9.0,,,Technology,B2B Tech Services,9.0,3.0,6.0,,,0.3333333333333333
+CDK Global,9.0,25.5,,,Technology,B2B Tech Services,25.5,9.0,17.25,,,0.35294117647058826
+Chartbeat,26.0,26.0,,,Technology,B2B Tech Services,26.0,26.0,26.0,,,1.0
+Cognizant,4.0,2.0,,,Technology,B2B Tech Services,2.0,4.0,3.0,,,2.0
+Cubic Corporation,4.0,0.0,,,Technology,B2B Tech Services,0.0,4.0,2.0,,,
+"Datto, Inc.",16.0,0.0,,,Technology,B2B Tech Services,0.0,16.0,8.0,,,
+"DMI, Inc.",2.0,6.0,,,Technology,B2B Tech Services,6.0,2.0,4.0,,,0.3333333333333333
+Impinj,12.0,0.0,,,Technology,B2B Tech Services,0.0,12.0,6.0,,,
+Iron Mountain,5.0,9.0,,,Technology,B2B Tech Services,9.0,5.0,7.0,,,0.5555555555555556
+Knowable,11.0,2.0,,,Technology,B2B Tech Services,2.0,11.0,6.5,,,5.5
+Leidos,4.0,5.0,,,Technology,B2B Tech Services,5.0,4.0,4.5,,,0.8
+Luxoft,26.0,12.0,,,Technology,B2B Tech Services,12.0,26.0,19.0,,,2.1666666666666665
+MediaMath,10.0,0.0,,,Technology,B2B Tech Services,0.0,10.0,5.0,,,
+MEDITECH,16.0,0.0,,,Technology,B2B Tech Services,0.0,16.0,8.0,,,
+MPAY,4.0,0.0,,,Technology,B2B Tech Services,0.0,4.0,2.0,,,
+NCR Corporation,17.0,20.0,,,Technology,B2B Tech Services,20.0,17.0,18.5,,,0.85
+Optoro,6.0,5.0,,,Technology,B2B Tech Services,5.0,6.0,5.5,,,1.2
+Quantcast,4.0,8.0,,,Technology,B2B Tech Services,8.0,4.0,6.0,,,0.5
+Recurly,6.0,0.0,,,Technology,B2B Tech Services,0.0,6.0,3.0,,,
+Sirius Computer Solutions,4.0,8.0,,,Technology,B2B Tech Services,8.0,4.0,6.0,,,0.5
+Teradata,8.0,8.0,,,Technology,B2B Tech Services,8.0,8.0,8.0,,,1.0
+Twilio,16.0,20.0,,,Technology,B2B Tech Services,20.0,16.0,18.0,,,0.8
+Unisys,12.0,0.0,,,Technology,B2B Tech Services,0.0,12.0,6.0,,,
+Volt Information Sciences,6.0,6.0,,,Technology,B2B Tech Services,6.0,6.0,6.0,,,1.0
+Wipro,16.0,8.0,,,Technology,B2B Tech Services,8.0,16.0,12.0,,,2.0
+Airbnb,21.0,2.0,,,Technology,Consumer Internet,2.0,21.0,11.5,,,10.5
+AOL,12.0,12.0,,,Technology,Consumer Internet,12.0,12.0,12.0,,,1.0
+BentoBox,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+BlaBlaCar,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+Booking.com,22.0,10.5,,,Technology,Consumer Internet,10.5,22.0,16.25,,,2.0952380952380953
+CampusLogic,10.0,0.0,,,Technology,Consumer Internet,0.0,10.0,5.0,,,
+CarMax,6.0,9.0,,,Technology,Consumer Internet,9.0,6.0,7.5,,,0.6666666666666666
+Carsales,16.0,,2.0,,Technology,Consumer Internet,,9.0,9.0,14.0,,
+ChowNow,15.0,0.0,,,Technology,Consumer Internet,0.0,15.0,7.5,,,
+Cloudworkers,52.0,0.0,,,Technology,Consumer Internet,0.0,52.0,26.0,,,
+Comoto Holdings,12.0,26.0,,,Technology,Consumer Internet,26.0,12.0,19.0,,,0.46153846153846156
+Divercity,1.0,1.0,,,Technology,Consumer Internet,1.0,1.0,1.0,,,1.0
+DoorDash,10.0,0.0,,,Technology,Consumer Internet,0.0,10.0,5.0,,,
+Freewheel,12.0,4.0,,,Technology,Consumer Internet,4.0,12.0,8.0,,,3.0
+Genius,12.0,4.0,,,Technology,Consumer Internet,4.0,12.0,8.0,,,3.0
+GoDaddy,17.0,9.0,,,Technology,Consumer Internet,9.0,17.0,13.0,,,1.8888888888888888
+Groupon,14.0,0.0,,,Technology,Consumer Internet,0.0,14.0,7.0,,,
+Grubhub,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+Ibotta,4.0,0.0,,,Technology,Consumer Internet,0.0,4.0,2.0,,,
+Indiegogo,10.0,10.0,,,Technology,Consumer Internet,10.0,10.0,10.0,,,1.0
+Justworks,14.0,2.0,,,Technology,Consumer Internet,2.0,14.0,8.0,,,7.0
+LaunchGood,12.0,12.0,,,Technology,Consumer Internet,12.0,12.0,12.0,,,1.0
+Lyft,12.0,18.0,,,Technology,Consumer Internet,18.0,12.0,15.0,,,0.6666666666666666
+Match,16.0,0.0,,,Technology,Consumer Internet,0.0,16.0,8.0,,,
+Match Group,14.0,0.0,,,Technology,Consumer Internet,0.0,14.0,7.0,,,
+Meta,22.0,0.0,,,Technology,Consumer Internet,0.0,22.0,11.0,,,
+MindSumo,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+Nerdwallet,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+Netflix,52.0,0.0,,,Technology,Consumer Internet,0.0,52.0,26.0,,,
+"Noom, inc.",12.0,6.0,,,Technology,Consumer Internet,6.0,12.0,9.0,,,2.0
+Offerup,8.0,8.0,,,Technology,Consumer Internet,8.0,8.0,8.0,,,1.0
+OLX Group,19.5,26.0,,,Technology,Consumer Internet,26.0,19.5,22.75,,,0.75
+ON Semiconductor,4.0,2.0,,,Technology,Consumer Internet,2.0,4.0,3.0,,,2.0
+Peapod Digital Labs,12.0,6.0,,,Technology,Consumer Internet,6.0,12.0,9.0,,,2.0
+Postmates,16.0,,16.0,,Technology,Consumer Internet,,16.0,16.0,0.0,,
+Rally Health,18.0,0.0,,,Technology,Consumer Internet,0.0,18.0,9.0,,,
+Reddit,16.0,,16.0,,Technology,Consumer Internet,,16.0,16.0,0.0,,
+Shopify,26.0,26.0,,,Technology,Consumer Internet,26.0,26.0,26.0,,,1.0
+Spotify,24.0,2.5,,,Technology,Consumer Internet,2.5,24.0,13.25,,,9.6
+Spring Health,18.0,0.0,,,Technology,Consumer Internet,0.0,18.0,9.0,,,
+Squarespace,20.0,0.0,,,Technology,Consumer Internet,0.0,20.0,10.0,,,
+Travelzoo,4.0,0.0,,,Technology,Consumer Internet,0.0,4.0,2.0,,,
+Twitter,20.0,2.5,,,Technology,Consumer Internet,2.5,20.0,11.25,,,8.0
+WorkMarket,10.0,4.0,,,Technology,Consumer Internet,4.0,10.0,7.0,,,2.5
+Yelp,14.0,0.0,,,Technology,Consumer Internet,0.0,14.0,7.0,,,
+YouTube,15.0,2.0,,,Technology,Consumer Internet,2.0,15.0,8.5,,,7.5
+Zillow,4.0,2.0,,,Technology,Consumer Internet,2.0,4.0,3.0,,,2.0
+Zumper,12.0,0.0,,,Technology,Consumer Internet,0.0,12.0,6.0,,,
+Enova,10.0,0.0,,,Technology,Financial Services,0.0,10.0,5.0,,,
+Funding Circle,13.0,,2.0,,Technology,Financial Services,,7.5,7.5,11.0,,
+Kabbage,12.0,0.0,,,Technology,Financial Services,0.0,12.0,6.0,,,
+Amazon Games,12.0,12.0,,,Technology,Gaming,12.0,12.0,12.0,,,1.0
+Roblox,16.0,0.5,,,Technology,Gaming,0.5,16.0,8.25,,,32.0
+Advantest,12.0,0.0,,,Technology,Manufacturing,0.0,12.0,6.0,,,
+Analog Devices,8.0,3.0,,,Technology,Manufacturing,3.0,8.0,5.5,,,2.6666666666666665
+Aruba Networks,24.0,2.0,,,Technology,Manufacturing,2.0,24.0,13.0,,,12.0
+Cadence Design Systems,12.0,4.0,,,Technology,Manufacturing,4.0,12.0,8.0,,,3.0
+Cirrus Logic,12.0,0.0,,,Technology,Manufacturing,0.0,12.0,6.0,,,
+Ericsson,16.0,0.0,,,Technology,Manufacturing,0.0,16.0,8.0,,,
+GlobalFoundries,20.0,0.0,,,Technology,Manufacturing,0.0,20.0,10.0,,,
+HP Inc.,14.0,6.0,,,Technology,Manufacturing,6.0,14.0,10.0,,,2.3333333333333335
+Infineon Technologies,1.0,,1.0,,Technology,Manufacturing,,1.0,1.0,0.0,,
+Itron,12.0,4.0,,,Technology,Manufacturing,4.0,12.0,8.0,,,3.0
+Juniper Networks,16.0,46.0,,,Technology,Manufacturing,46.0,16.0,31.0,,,0.34782608695652173
+KLA-Tencor Corporation,12.0,6.0,,,Technology,Manufacturing,6.0,12.0,9.0,,,2.0
+Lenovo,24.0,0.0,,,Technology,Manufacturing,0.0,24.0,12.0,,,
+Markforged,6.0,12.0,,,Technology,Manufacturing,12.0,6.0,9.0,,,0.5
+Molecular Devices,14.0,4.0,,,Technology,Manufacturing,4.0,14.0,9.0,,,3.5
+National Instruments,6.0,12.0,,,Technology,Manufacturing,12.0,6.0,9.0,,,0.5
+Roku,16.0,8.0,,,Technology,Manufacturing,8.0,16.0,12.0,,,2.0
+Seagate Technology,16.0,0.0,,,Technology,Manufacturing,0.0,16.0,8.0,,,
+Siemens Energy,6.0,4.0,,,Technology,Manufacturing,4.0,6.0,5.0,,,1.5
+Snap Inc.,14.0,8.0,,,Technology,Manufacturing,8.0,14.0,11.0,,,1.75
+Texas Instruments,12.0,,4.0,,Technology,Manufacturing,,8.0,8.0,8.0,,
+Currencycloud,13.0,0.0,,,Technology,Payments,0.0,13.0,6.5,,,
+Gusto,16.0,10.0,,,Technology,Payments,10.0,16.0,13.0,,,1.6
+Ingenico Group,12.0,40.0,,,Technology,Payments,40.0,12.0,26.0,,,0.3
+MineralTree,12.0,0.0,,,Technology,Payments,0.0,12.0,6.0,,,
+Pangea Money Transfer,12.0,0.0,,,Technology,Payments,0.0,12.0,6.0,,,
+PayPal,13.0,3.0,,,Technology,Payments,3.0,13.0,8.0,,,4.333333333333333
+Plastiq,12.0,6.0,,,Technology,Payments,6.0,12.0,9.0,,,2.0
+Ramp,12.0,0.0,,,Technology,Payments,0.0,12.0,6.0,,,
+Square,16.0,0.0,,,Technology,Payments,0.0,16.0,8.0,,,
+Magic Leap,18.0,0.0,,,Technology,Research,0.0,18.0,9.0,,,
+ADT Security Services,5.0,5.0,,,Technology,Security,5.0,5.0,5.0,,,1.0
+Alarm.com,8.0,0.0,,,Technology,Security,0.0,8.0,4.0,,,
+Brivo,8.0,0.0,,,Technology,Security,0.0,8.0,4.0,,,
+Coalfire,10.0,6.0,,,Technology,Security,6.0,10.0,8.0,,,1.6666666666666667
+CrowdStrike,9.0,11.0,,,Technology,Security,11.0,9.0,10.0,,,0.8181818181818182
+Entrust,12.0,2.0,,,Technology,Security,2.0,12.0,7.0,,,6.0
+RSA,18.0,0.0,,,Technology,Security,0.0,18.0,9.0,,,
+Trustwave Holdings,12.0,12.0,,,Technology,Security,12.0,12.0,12.0,,,1.0
+Agilysys,6.0,0.0,,,Technology,Software,0.0,6.0,3.0,,,
+Alkami Technology,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Alteryx,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Amplitude,12.0,,12.0,,Technology,Software,,12.0,12.0,0.0,,
+Anant Corporation,4.0,2.0,,,Technology,Software,2.0,4.0,3.0,,,2.0
+Ansys,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+AppDynamics,13.0,0.0,,,Technology,Software,0.0,13.0,6.5,,,
+Aquicore,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+ArisGlobal,12.0,4.0,,,Technology,Software,4.0,12.0,8.0,,,3.0
+Atlassian,25.0,0.0,,,Technology,Software,0.0,25.0,12.5,,,
+Automox,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+"Aware, Inc",15.5,0.0,,,Technology,Software,0.0,15.5,7.75,,,
+Axon,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+"Bentley Systems, Inc.",6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+BigCommerce,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Bitdefender,52.0,52.0,,,Technology,Software,52.0,52.0,52.0,,,1.0
+Blackbaud,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Bullhorn,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+CallRail,6.0,12.0,,,Technology,Software,12.0,6.0,9.0,,,0.5
+Canva,18.0,23.0,,,Technology,Software,23.0,18.0,20.5,,,0.782608695652174
+CareValidate,8.0,0.0,,,Technology,Software,0.0,8.0,4.0,,,
+CentralSquare Technologies,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Ceridian,14.0,1.0,,,Technology,Software,1.0,14.0,7.5,,,14.0
+Citrix,18.0,6.0,,,Technology,Software,6.0,18.0,12.0,,,3.0
+ClearPoint Strategy,6.0,0.0,,,Technology,Software,0.0,6.0,3.0,,,
+Cludo,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Collective Health,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+Collibra,21.0,6.5,,,Technology,Software,6.5,21.0,13.75,,,3.230769230769231
+Community Brands,6.0,12.0,,,Technology,Software,12.0,6.0,9.0,,,0.5
+ConsenSys,12.0,12.0,,,Technology,Software,12.0,12.0,12.0,,,1.0
+Conviva,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+Convoy,12.0,16.0,,,Technology,Software,16.0,12.0,14.0,,,0.75
+Coupa,3.0,9.0,,,Technology,Software,9.0,3.0,6.0,,,0.3333333333333333
+Dassault Systemes,7.0,3.0,,,Technology,Software,3.0,7.0,5.0,,,2.3333333333333335
+Detechtion Technologies,1.0,4.0,,,Technology,Software,4.0,1.0,2.5,,,0.25
+Digit,18.0,0.0,,,Technology,Software,0.0,18.0,9.0,,,
+DISCO,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Donnelley Financial Solutions,5.0,8.0,,,Technology,Software,8.0,5.0,6.5,,,0.625
+Doximity,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+DxMinds Technologies Inc,10.0,10.0,,,Technology,Software,10.0,10.0,10.0,,,1.0
+Dynatrace,52.0,52.0,,,Technology,Software,52.0,52.0,52.0,,,1.0
+Ellevation Education,8.0,0.0,,,Technology,Software,0.0,8.0,4.0,,,
+Engrain,8.0,0.0,,,Technology,Software,0.0,8.0,4.0,,,
+ePublishing,2.0,2.0,,,Technology,Software,2.0,2.0,2.0,,,1.0
+Esri,6.0,0.0,,,Technology,Software,0.0,6.0,3.0,,,
+Expeed Software,24.0,0.0,,,Technology,Software,0.0,24.0,12.0,,,
+Fearless,6.0,3.0,,,Technology,Software,3.0,6.0,4.5,,,2.0
+Flexera Software,8.0,8.0,,,Technology,Software,8.0,8.0,8.0,,,1.0
+FreshBooks,32.0,0.0,,,Technology,Software,0.0,32.0,16.0,,,
+Freshworks,8.0,2.0,,,Technology,Software,2.0,8.0,5.0,,,4.0
+Frontline Education,9.0,3.0,,,Technology,Software,3.0,9.0,6.0,,,3.0
+Fusion Risk Management,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+GlossGenius,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Gong,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+GoodCore Software,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Higher Logic,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+"HubSpot, Inc.",16.0,8.0,,,Technology,Software,8.0,16.0,12.0,,,2.0
+Hudl,6.0,0.0,,,Technology,Software,0.0,6.0,3.0,,,
+"iCIMS, Inc.",14.0,30.0,,,Technology,Software,30.0,14.0,22.0,,,0.4666666666666667
+Infor,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Informatica,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+InsightSquared,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Instructure,3.0,9.0,,,Technology,Software,9.0,3.0,6.0,,,0.3333333333333333
+Integrity Software,6.0,46.0,,,Technology,Software,46.0,6.0,26.0,,,0.13043478260869565
+Intellimize,14.0,0.0,,,Technology,Software,0.0,14.0,7.0,,,
+"Intuit, Inc",12.0,8.0,,,Technology,Software,8.0,12.0,10.0,,,1.5
+JHC Systems,52.0,0.0,,,Technology,Software,0.0,52.0,26.0,,,
+Juice Analytics,4.0,0.0,,,Technology,Software,0.0,4.0,2.0,,,
+Kajabi,1.0,12.0,,,Technology,Software,12.0,1.0,6.5,,,0.08333333333333333
+Khoros,12.0,3.0,,,Technology,Software,3.0,12.0,7.5,,,4.0
+LevaData,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+Lionbridge,8.0,4.0,,,Technology,Software,4.0,8.0,6.0,,,2.0
+Lithero,8.0,4.0,,,Technology,Software,4.0,8.0,6.0,,,2.0
+Mad Mobile,2.0,10.0,,,Technology,Software,10.0,2.0,6.0,,,0.2
+Maestro,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Mapbox,10.0,2.0,,,Technology,Software,2.0,10.0,6.0,,,5.0
+MaritzCX,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Medallia,12.0,2.0,,,Technology,Software,2.0,12.0,7.0,,,6.0
+Microsoft,12.0,3.0,,,Technology,Software,3.0,12.0,7.5,,,4.0
+MicroStrategy,17.0,6.0,,,Technology,Software,6.0,17.0,11.5,,,2.8333333333333335
+MobileIron,12.0,16.0,,,Technology,Software,16.0,12.0,14.0,,,0.75
+Mode Mobile,4.0,8.0,,,Technology,Software,8.0,4.0,6.0,,,0.5
+"MongoDB, Inc.",20.0,0.0,,,Technology,Software,0.0,20.0,10.0,,,
+Motus LLC,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Netskope,6.0,0.0,,,Technology,Software,0.0,6.0,3.0,,,
+NetSuite Inc.,16.0,47.0,,,Technology,Software,47.0,16.0,31.5,,,0.3404255319148936
+New Relic,12.0,6.0,,,Technology,Software,6.0,12.0,9.0,,,2.0
+Nextech,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+NextGen Healthcare,2.0,12.0,,,Technology,Software,12.0,2.0,7.0,,,0.16666666666666666
+Nutanix,17.0,0.0,,,Technology,Software,0.0,17.0,8.5,,,
+OfferFit,12.0,8.0,,,Technology,Software,8.0,12.0,10.0,,,1.5
+Palantir,30.0,38.0,,,Technology,Software,38.0,30.0,34.0,,,0.7894736842105263
+PandaDoc,20.0,40.0,,,Technology,Software,40.0,20.0,30.0,,,0.5
+panOpen,2.0,0.0,,,Technology,Software,0.0,2.0,1.0,,,
+"Panopto, Inc.",12.0,4.0,,,Technology,Software,4.0,12.0,8.0,,,3.0
+Patron Technology,14.0,8.0,,,Technology,Software,8.0,14.0,11.0,,,1.75
+Paylocity,7.0,5.0,,,Technology,Software,5.0,7.0,6.0,,,1.4
+Pear Therapeutics,6.0,4.0,,,Technology,Software,4.0,6.0,5.0,,,1.5
+Persistent Systems,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Pexip,8.0,4.0,,,Technology,Software,4.0,8.0,6.0,,,2.0
+PhotoShelter,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Praxent,2.0,2.0,,,Technology,Software,2.0,2.0,2.0,,,1.0
+Privitar Ltd,20.0,13.0,,,Technology,Software,13.0,20.0,16.5,,,1.5384615384615385
+Procore Technologies,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Qualtrics,6.0,12.0,,,Technology,Software,12.0,6.0,9.0,,,0.5
+Rangle.io,52.0,0.0,,,Technology,Software,0.0,52.0,26.0,,,
+Red Hat,0.0,0.0,,,Technology,Software,0.0,0.0,0.0,,,
+Rosetta Stone,14.0,0.0,,,Technology,Software,0.0,14.0,7.0,,,
+Safety Labs Inc,15.0,0.0,,,Technology,Software,0.0,15.0,7.5,,,
+Sage,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+SAP,12.0,3.0,,,Technology,Software,3.0,12.0,7.5,,,4.0
+SAS,8.0,4.0,,,Technology,Software,4.0,8.0,6.0,,,2.0
+Screencastify,6.0,12.0,,,Technology,Software,12.0,6.0,9.0,,,0.5
+ServiceTitan,12.0,11.0,,,Technology,Software,11.0,12.0,11.5,,,1.0909090909090908
+Siemens Digital Industries Software,6.0,11.0,,,Technology,Software,11.0,6.0,8.5,,,0.5454545454545454
+Signzy Technology Private Limited,3.0,3.0,,,Technology,Software,3.0,3.0,3.0,,,1.0
+SmartBear Software,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Splunk,16.0,0.0,,,Technology,Software,0.0,16.0,8.0,,,
+Storable,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Tableau Software,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Taboola,26.0,0.0,,,Technology,Software,0.0,26.0,13.0,,,
+Talkdesk,16.0,,8.0,,Technology,Software,,12.0,12.0,8.0,,
+TIBCO Software,14.0,10.0,,,Technology,Software,10.0,14.0,12.0,,,1.4
+Triton Digital,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Veeva Systems,12.0,12.0,,,Technology,Software,12.0,12.0,12.0,,,1.0
+VMware,18.0,0.0,,,Technology,Software,0.0,18.0,9.0,,,
+WGU Labs,12.0,12.0,,,Technology,Software,12.0,12.0,12.0,,,1.0
+Workday,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+WorkJam,52.0,0.0,,,Technology,Software,0.0,52.0,26.0,,,
+"Wrike, Inc.",8.0,8.0,,,Technology,Software,8.0,8.0,8.0,,,1.0
+Xactly Corporation,6.0,6.0,,,Technology,Software,6.0,6.0,6.0,,,1.0
+Xandr,12.0,0.0,,,Technology,Software,0.0,12.0,6.0,,,
+Zapier,14.0,0.0,,,Technology,Software,0.0,14.0,7.0,,,
+ Charter Communications,8.0,12.0,,,Telecommunications,,12.0,8.0,10.0,,,0.6666666666666666
+Asurion,12.0,8.0,,,Telecommunications,,8.0,12.0,10.0,,,1.5
+AT&T,9.0,6.0,,,Telecommunications,,6.0,9.0,7.5,,,1.5
+Ciena,18.0,0.0,,,Telecommunications,,0.0,18.0,9.0,,,
+Comcast,12.0,4.0,,,Telecommunications,,4.0,12.0,8.0,,,3.0
+Cox,8.0,8.0,,,Telecommunications,,8.0,8.0,8.0,,,1.0
+G Fiber,13.0,2.0,,,Telecommunications,,2.0,13.0,7.5,,,6.5
+Hughes Network Systems,16.0,0.0,,,Telecommunications,,0.0,16.0,8.0,,,
+Qualcomm Incorporated,12.0,12.0,,,Telecommunications,,12.0,12.0,12.0,,,1.0
+"RingCentral, Inc.",12.0,4.0,,,Telecommunications,,4.0,12.0,8.0,,,3.0
+Telnyx,12.0,8.0,,,Telecommunications,,8.0,12.0,10.0,,,1.5
+Viettel Group,24.0,52.0,,,Telecommunications,,52.0,24.0,38.0,,,0.46153846153846156
+Zara,6.0,4.0,,,Textiles,,4.0,6.0,5.0,,,1.5
+FlixBus,52.0,0.0,,,Transportation,Bus,0.0,52.0,26.0,,,
+UPS,3.0,8.0,,,Transportation,Couriers and Delivery,8.0,3.0,5.5,,,0.375
+CSX Corporation,16.0,52.0,,,Transportation,Freight and Logistics,52.0,16.0,34.0,,,0.3076923076923077
+Dematic,6.0,6.0,,,Transportation,Freight and Logistics,6.0,6.0,6.0,,,1.0
+Echo Global Logistics,4.0,4.0,,,Transportation,Freight and Logistics,4.0,4.0,4.0,,,1.0
+Redwood Logistics,4.5,1.0,,,Transportation,Freight and Logistics,1.0,4.5,2.75,,,4.5
+Transplace,5.0,6.0,,,Transportation,Freight and Logistics,6.0,5.0,5.5,,,0.8333333333333334
+UniGroup,4.0,0.0,,,Transportation,Freight and Logistics,0.0,4.0,2.0,,,
+American Airlines,10.5,6.0,,,Transportation,Passenger Air,6.0,10.5,8.25,,,1.75
+Southwest Airlines,12.0,12.0,,,Transportation,Passenger Air,12.0,12.0,12.0,,,1.0
+United Airlines,6.0,0.0,,,Transportation,Passenger Air,0.0,6.0,3.0,,,
+Amtrak,6.0,0.0,,,Transportation,Rail,0.0,6.0,3.0,,,
+BNSF Logistics,12.0,0.0,,,Transportation,Rail,0.0,12.0,6.0,,,
+Kansas City Southern,6.0,6.0,,,Transportation,Rail,6.0,6.0,6.0,,,1.0
+"Avis Budget Group, Inc.",6.0,6.0,,,Transportation,Rental,6.0,6.0,6.0,,,1.0
+Enterprise Holdings,12.0,12.0,,,Transportation,Rental,12.0,12.0,12.0,,,1.0
+"Hertz Global Holdings, Inc.",12.0,0.0,,,Transportation,Rental,0.0,12.0,6.0,,,
+ISO New England,2.0,8.0,,,Utilities,,8.0,2.0,5.0,,,0.25
+Equinox,6.0,12.0,,,Wellness and Fitness,,12.0,6.0,9.0,,,0.5
+THE WELL,12.0,0.0,,,Wellness and Fitness,,0.0,12.0,6.0,,,
+C&S Wholesale Grocers,6.0,12.0,,,Wholesale,,12.0,6.0,9.0,,,0.5
+Martine's Wines,6.0,0.0,,,Wholesale,,0.0,6.0,3.0,,,
+Sonepar,8.0,12.0,,,Wholesale,,12.0,8.0,10.0,,,0.6666666666666666
+Sonepar USA,6.0,12.0,,,Wholesale,,12.0,6.0,9.0,,,0.5
+Worldwide Produce,6.0,0.0,,,Wholesale,,0.0,6.0,3.0,,,
+Daggerwing Group Inc.,1.0,,,,Advertising,,,1.0,1.0,,,
+KBS,2.0,,,,Advertising,,,2.0,2.0,,,
+Wilson Dow Group,1.0,,,,Advertising,,,1.0,1.0,,,
+Compass Group PLC,0.0,,,,Business Services,Food and Hospitality,,0.0,0.0,,,
+Hays PLC,2.0,,,,Business Services,Staffing and Outsourcing,,2.0,2.0,,,
+S.i. Systems,0.0,,,,Business Services,Staffing and Outsourcing,,0.0,0.0,,,
+Vectrus,40.0,,,,Conglomerate,,,40.0,40.0,,,
+Scentsy,52.0,,,,Consumer Packaged Goods,Packaged Products,,52.0,52.0,,,
+Yankee Candle,12.0,,,,Consumer Packaged Goods,Packaged Products,,12.0,12.0,,,
+Weill Cornell Medicine,12.5,,,,Educational Services,College and Universities,,12.5,12.5,,,
+Round Rock ISD,0.0,,,,Educational Services,Management,,0.0,0.0,,,
+Austin Independent School District,1.0,,,,Educational Services,School,,1.0,1.0,,,
+Bain Capital,16.0,,,,Finance,Asset Management,,16.0,16.0,,,
+KKR & Co. LP,16.0,,,,Finance,Asset Management,,16.0,16.0,,,
+Nationwide Building Society,26.0,,,,Finance,Diversified,,26.0,26.0,,,
+Carbon Health,12.0,,,,Healthcare,Hospitals and Clinics,,12.0,12.0,,,
+Nemours,0.0,,,,Healthcare,Hospitals and Clinics,,0.0,0.0,,,
+ProMedica,0.0,,,,Healthcare,Hospitals and Clinics,,0.0,0.0,,,
+Trinity Health System,2.0,,,,Healthcare,Hospitals and Clinics,,2.0,2.0,,,
+University Hospitals,0.0,,,,Healthcare,Hospitals and Clinics,,0.0,0.0,,,
+"NxStage Medical, Inc.",0.0,,,,Healthcare,Medical Devices,,0.0,0.0,,,
+Intercontinental Hotels Group,50.0,,,,Hospitality,Hotels,,50.0,50.0,,,
+Waffle House,6.0,,,,Hospitality,Restaurants,,6.0,6.0,,,
+Whataburger,40.0,,,,Hospitality,Restaurants,,40.0,40.0,,,
+Pella Windows and Doors,12.0,,,,Industrial,Building Materials Manufacturing,,12.0,12.0,,,
+American Bridge Company,0.0,,,,Industrial,Construction Company,,0.0,0.0,,,
+Black & Veatch,12.0,,,,Industrial,Construction Company,,12.0,12.0,,,
+Bhel,50.0,,,,Industrial,Equipment Manufacturing,,50.0,50.0,,,
+Macy's Technology,8.0,,,,Information Services,Technology,,8.0,8.0,,,
+Wisetech Global,0.0,,,,Information Services,Technology,,0.0,0.0,,,
+Yext,16.0,,,,Information Services,Technology,,16.0,16.0,,,
+"Matrix Absence Management, Inc.",8.0,,,,Insurance,Diversified,,8.0,8.0,,,
+Elevance Health,6.0,,,,Insurance,Health,,6.0,6.0,,,
+Auto-Owners Insurance,1.0,,,,Insurance,Property and Casualty,,1.0,1.0,,,
+Hapag-Lloyd,14.0,,,,Maritime,,,14.0,14.0,,,
+BASF,18.0,,,,Natural Resources,Chemicals,,18.0,18.0,,,
+Alpha Natural Resources,6.0,,,,Natural Resources,Metals and Mining,,6.0,6.0,,,
+Barrick Gold Corporation,30.0,,,,Natural Resources,Metals and Mining,,30.0,30.0,,,
+BP,16.0,,,,Natural Resources,Oil and Gas,,16.0,16.0,,,
+Halliburton,8.0,,,,Natural Resources,Oilfield Services,,8.0,8.0,,,
+"National Oilwell Varco, Inc.",2.0,,,,Natural Resources,Oilfield Services,,2.0,2.0,,,
+Silicon Valley Employers Forum,12.0,,,,Nonprofit,Trade Organization,,12.0,12.0,,,
+SPEEA,0.0,,,,Nonprofit,Trade Organization,,0.0,0.0,,,
+AmerisourceBergen,8.0,,,,Pharmaceutical,,,8.0,8.0,,,
+Transwestern,7.0,,,,Real Estate,Development and Management,,7.0,7.0,,,
+Trader JoeÕs,0.0,,,,Retail,Convenience Store,,0.0,0.0,,,
+Harrods,10.0,,,,Retail,Department Store,,10.0,10.0,,,
+Tractor Supply Company,6.0,,,,Retail,General Merchandise,,6.0,6.0,,,
+American Eagle Outfitters,4.0,,,,Retail,"Shoes, Accessories and Apparel",,4.0,4.0,,,
+LVMH,10.0,,,,Retail,"Shoes, Accessories and Apparel",,10.0,10.0,,,
+Steve Madden,6.0,,,,Retail,"Shoes, Accessories and Apparel",,6.0,6.0,,,
+Food Lion,0.0,,,,Retail,Supermarket Company,,0.0,0.0,,,
+Bright Horizons,0.0,,,,Services,Daycare,,0.0,0.0,,,
+Talent Inc.,10.0,,,,Services,Other,,10.0,10.0,,,
+SHI International Corp.,0.0,,,,Technology,B2B Tech Services,,0.0,0.0,,,
+Vistaprint,16.0,,,,Technology,Consumer Internet,,16.0,16.0,,,
+Fujifilm Global,12.0,,,,Technology,Manufacturing,,12.0,12.0,,,
+PlayStation,12.0,,,,Technology,Manufacturing,,12.0,12.0,,,
+Druva,2.0,,,,Technology,Software,,2.0,2.0,,,
+SurveyGizmo,4.0,,,,Technology,Software,,4.0,4.0,,,
+Xero,6.0,,,,Technology,Software,,6.0,6.0,,,
+Fedex Supply Chain,2.0,,,,Transportation,Freight and Logistics,,2.0,2.0,,,
+Schneider National,0.0,,,,Transportation,Freight and Logistics,,0.0,0.0,,,
+HD Supply,14.0,,,,Wholesale,,,14.0,14.0,,,
+Merrimac Industrial Sales,0.0,,,,Wholesale,,,0.0,0.0,,,
